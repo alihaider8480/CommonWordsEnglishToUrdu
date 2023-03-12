@@ -753,3 +753,6 @@ Forgive
 Annoys , Annoy
 
 ناراض , پریشان کرتا ہے
+
+alot
+بہت زيادہ
