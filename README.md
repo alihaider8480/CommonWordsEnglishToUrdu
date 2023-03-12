@@ -783,3 +783,6 @@ encourage, excited, motivation, inspire, induced
 
 دلچسپ (dilchasp)
 exciting,interesting, intriguing
+
+
+awair             = setting chakar
