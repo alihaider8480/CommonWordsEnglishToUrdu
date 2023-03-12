@@ -758,7 +758,28 @@ alot
 بہت زيادہ
 a lot of
 بہت سے
+
 a lot or a little
 بہت یا تھوڑا سا
+
 a little
 ھوڑا سا
+
+huge
+بڑی
+
+hug
+گلے لگانا
+
+
+familiar, know, aware
+واقف = جانا پھیچانا
+
+
+حوصلہ افزائی (hausla afzai)
+encourage, excited, motivation, inspire, induced
+
+
+
+دلچسپ (dilchasp)
+exciting,interesting, intriguing
