@@ -808,3 +808,10 @@ buttoning or buttoning up
 
 
 frightخوف
+
+
+afraid 
+ڈرنا
+
+afraid of what 
+کس چیز سے ڈرتے ہیں؟
