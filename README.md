@@ -786,3 +786,12 @@ exciting,interesting, intriguing
 
 
 awair             = setting chakar
+
+scold , scolded=ڈانٹا
+
+
+ڈانٹنا
+
+
+thirsty 
+پیاسا
