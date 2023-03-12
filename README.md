@@ -805,3 +805,6 @@ tying the knot
 
 buttoning or buttoning up
 بٹن لگانا
+
+
+frightخوف
