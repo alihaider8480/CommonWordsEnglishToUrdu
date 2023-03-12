@@ -756,3 +756,9 @@ Annoys , Annoy
 
 alot
 بہت زيادہ
+a lot of
+بہت سے
+a lot or a little
+بہت یا تھوڑا سا
+a little
+ھوڑا سا
