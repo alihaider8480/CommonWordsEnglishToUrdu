@@ -795,3 +795,13 @@ scold , scolded=ڈانٹا
 
 thirsty 
 پیاسا
+tying
+ باندھنا
+
+
+
+tying the knot
+گرہ باندھنا
+
+buttoning or buttoning up
+بٹن لگانا
