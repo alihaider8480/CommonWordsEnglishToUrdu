@@ -816,3 +816,8 @@ afraid
 
 afraid of what 
 کس چیز سے ڈرتے ہیں؟
+
+
+
+fasten 
+جکڑنا
