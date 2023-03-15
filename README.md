@@ -821,3 +821,6 @@ afraid of what
 
 fasten 
 جکڑنا
+
+pleas 
+درخواستیں
