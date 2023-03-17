@@ -824,3 +824,6 @@ fasten
 
 pleas 
 درخواستیں
+
+evidence
+ثبوت
