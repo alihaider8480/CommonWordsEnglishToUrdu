@@ -827,3 +827,6 @@ pleas
 
 evidence
 ثبوت
+
+impassioned
+جذباتی طور پر
