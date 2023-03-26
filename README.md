@@ -311,7 +311,7 @@ Heist
 
 Intimidate
 
-ڈرانا
+,ڈرانا دھمکاناڈرانا
 
 Intimidated
 
