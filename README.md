@@ -835,3 +835,5 @@ impassioned
 Wonder
 تعجب
 
+Sees
+دیکھتا ہے
