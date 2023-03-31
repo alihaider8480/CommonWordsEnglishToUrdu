@@ -830,3 +830,8 @@ evidence
 
 impassioned
 جذباتی طور پر
+
+
+Wonder
+تعجب
+
