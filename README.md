@@ -841,3 +841,5 @@ Sees
 Deaf and dumb
 بہرے اور گونگے
 
+Cottage
+جھونپڑا, ghareeb ka Ghar village ma
