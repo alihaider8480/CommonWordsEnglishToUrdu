@@ -843,3 +843,10 @@ Deaf and dumb
 
 Cottage
 جھونپڑا, ghareeb ka Ghar village ma
+
+
+Shook
+ہلایا
+
+Doubtful, skeptical?
+شکی,?
