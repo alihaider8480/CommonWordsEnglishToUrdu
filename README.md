@@ -837,3 +837,7 @@ Wonder
 
 Sees
 دیکھتا ہے
+
+Deaf and dumb
+بہرے اور گونگے
+
