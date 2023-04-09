@@ -863,3 +863,26 @@ consolidated
 accelerate
 تیز کریں
 
+occupied
+قبضہ کر لیا
+occupy
+قبضہ
+
+reward
+فائدہ
+
+on-premises ?
+leverage ?
+
+
+on-premises
+پر موجود?????????????????????
+
+
+seam ? seamless
+
+specially
+خاص طور پر
+
+peculiarly
+انوکھے انداز سے, عجیب انداز سے
