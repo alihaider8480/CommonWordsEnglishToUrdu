@@ -856,3 +856,9 @@ accumulate
 
 Exploit
 کارنامہ
+
+consolidated
+جوڑنا
+
+
+
