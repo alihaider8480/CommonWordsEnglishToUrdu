@@ -860,5 +860,6 @@ Exploit
 consolidated
 جوڑنا
 
-
+accelerate
+تیز کریں
 
