@@ -850,3 +850,9 @@ Shook
 
 Doubtful, skeptical?
 شکی,?
+
+accumulate
+جمع کریں
+
+Exploit
+کارنامہ
