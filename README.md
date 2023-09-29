@@ -886,3 +886,6 @@ specially
 
 peculiarly
 انوکھے انداز سے, عجیب انداز سے
+
+accommodation
+رہائش
