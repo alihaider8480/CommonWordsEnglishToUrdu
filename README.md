@@ -889,3 +889,6 @@ peculiarly
 
 accommodation
 رہائش
+
+crucial 
+اہم
