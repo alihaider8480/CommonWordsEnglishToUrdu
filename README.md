@@ -895,3 +895,27 @@ crucial
 
 Memorandum
 یادداشت
+
+liaise
+رابطہ
+
+recommence
+
+پھر سے شروع
+
+
+accordance
+کے مطابق
+
+intention
+جانے کا ارادہ ہے
+
+stipulated 
+مقرر
+stipulate
+شرط لگانا
+stipulation
+شرط
+
+particularly
+شرط
