@@ -892,3 +892,6 @@ accommodation
 
 crucial 
 اہم
+
+Memorandum
+یادداشت
