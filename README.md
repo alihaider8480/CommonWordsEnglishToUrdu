@@ -919,3 +919,6 @@ stipulation
 
 particularly
 شرط
+
+residue
+باقیات(something that remains after a part is taken)
