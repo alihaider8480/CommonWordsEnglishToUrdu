@@ -946,5 +946,9 @@ sweat
 
 voilated 
 خلاف ورزی کی
+
 trauma
+
 صدمہ
+prevent
+روکنا
