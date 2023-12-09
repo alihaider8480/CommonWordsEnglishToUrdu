@@ -937,3 +937,9 @@ wee
 
 stew 
 khna ka sath istamal karta hia kasa khaana ban gaya  stew food compelete
+
+
+lick
+چاٹ
+sweat
+پسینہ
