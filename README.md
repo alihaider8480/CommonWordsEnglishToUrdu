@@ -926,3 +926,5 @@ residue
 
 flog 
 کوڑے مارنا
+scatter
+بکھرنا
