@@ -943,3 +943,6 @@ lick
 چاٹ
 sweat
 پسینہ
+
+voilated 
+خلاف ورزی کی
