@@ -922,3 +922,7 @@ particularly
 
 residue
 باقیات(something that remains after a part is taken)
+
+
+flog 
+کوڑے مارنا
