@@ -928,3 +928,6 @@ flog
 کوڑے مارنا
 scatter
 بکھرنا
+
+
+inquisitive = having or showing an interest in learning things
