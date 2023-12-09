@@ -946,3 +946,5 @@ sweat
 
 voilated 
 خلاف ورزی کی
+trauma
+صدمہ
