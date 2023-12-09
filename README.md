@@ -931,3 +931,9 @@ scatter
 
 
 inquisitive = having or showing an interest in learning things
+
+wee
+پیشاب
+
+stew 
+khna ka sath istamal karta hia kasa khaana ban gaya  stew food compelete
