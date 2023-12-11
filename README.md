@@ -952,3 +952,5 @@ trauma
 صدمہ
 prevent
 روکنا
+hesitation
+ہچکچاہٹ
