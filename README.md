@@ -954,3 +954,6 @@ prevent
 روکنا
 hesitation
 ہچکچاہٹ
+
+irritate
+چڑچڑانا
