@@ -957,3 +957,10 @@ hesitation
 
 irritate
 چڑچڑانا
+
+rush = rushed
+
+جلدی
+
+hoover
+کوڑا پھنکی
