@@ -964,3 +964,5 @@ rush = rushed
 
 hoover
 کوڑا پھنکی
+as usual
+ہمیشہ کی طرح
