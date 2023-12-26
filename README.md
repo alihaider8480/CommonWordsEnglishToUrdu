@@ -966,3 +966,5 @@ hoover
 کوڑا پھنکی
 as usual
 ہمیشہ کی طرح
+curiosity = had sa ziada interest lana
+تجسس,دلچسپی
