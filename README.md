@@ -970,3 +970,9 @@ curiosity = had sa ziada interest lana
 تجسس,دلچسپی
 it's up to you
 یہ آپ پر منحصر ہے
+
+demonstrative 
+نمائشی, dikhana show karna,display feeling openly
+
+possession
+ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
