@@ -968,3 +968,5 @@ as usual
 ہمیشہ کی طرح
 curiosity = had sa ziada interest lana
 تجسس,دلچسپی
+it's up to you
+یہ آپ پر منحصر ہے
