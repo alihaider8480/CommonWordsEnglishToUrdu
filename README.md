@@ -976,3 +976,6 @@ demonstrative
 
 possession
 ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
+
+revamp , revamping 
+اصلاح  , اصلاح کرنا
