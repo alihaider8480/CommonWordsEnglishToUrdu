@@ -979,3 +979,5 @@ possession
 
 revamp , revamping 
 اصلاح  , اصلاح کرنا
+obstacle
+رکاوٹ
