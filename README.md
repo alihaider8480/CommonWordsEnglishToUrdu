@@ -981,3 +981,6 @@ revamp , revamping
 اصلاح  , اصلاح کرنا
 obstacle
 رکاوٹ
+
+traitor
+غدار
