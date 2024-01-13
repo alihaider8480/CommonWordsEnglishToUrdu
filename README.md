@@ -987,3 +987,9 @@ traitor
 
 ![Basic English Grammar Book](https://github.com/alihaider8480/CommonWordsEnglishToUrdu/assets/40827670/a978c119-ff34-44d0-813b-d03ec39aa382)
 
+
+intention
+ارادہ
+
+conceal
+چھپانا
