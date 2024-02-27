@@ -993,3 +993,6 @@ intention
 
 conceal
 چھپانا
+
+sins 
+گناہ
