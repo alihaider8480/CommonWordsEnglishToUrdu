@@ -996,3 +996,5 @@ conceal
 
 sins 
 گناہ
+resistance 
+مزاحمت
