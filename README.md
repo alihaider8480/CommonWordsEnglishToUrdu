@@ -998,3 +998,6 @@ sins
 گناہ
 resistance 
 مزاحمت
+
+anticipate date
+متوقع تاریخ
