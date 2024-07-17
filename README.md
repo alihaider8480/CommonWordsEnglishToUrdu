@@ -1007,3 +1007,5 @@ expiate
 
 tremble
 کانپنا
+enliven 
+زندہ کرنا
