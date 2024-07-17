@@ -1004,3 +1004,6 @@ anticipate date
 
 expiate
 کفارہ دینا
+
+tremble
+کانپنا
