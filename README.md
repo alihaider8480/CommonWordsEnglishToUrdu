@@ -1001,3 +1001,6 @@ resistance
 
 anticipate date
 متوقع تاریخ
+
+expiate
+کفارہ دینا
