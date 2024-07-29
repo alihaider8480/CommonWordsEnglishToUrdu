@@ -1009,3 +1009,7 @@ tremble
 کانپنا
 enliven 
 زندہ کرنا
+
+
+abundance
+کثرت(a very large quantity of something)
