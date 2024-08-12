@@ -1018,3 +1018,6 @@ harvest
 
 wild
 جنگلی
+
+hassle
+پریشانی
