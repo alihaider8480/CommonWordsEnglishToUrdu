@@ -1032,3 +1032,7 @@ retaliatory (matlab badla lana)
 
 casualties
 ہلاکتیں
+
+
+ditche
+ہلاکتیں
