@@ -1026,3 +1026,5 @@ intercept, ed (roka gaya)
 روکنا
 struck 
 مارا
+retaliatory (matlab badla lana)
+انتقامی
