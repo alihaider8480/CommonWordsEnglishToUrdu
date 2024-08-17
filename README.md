@@ -1021,3 +1021,5 @@ wild
 
 hassle
 پریشانی
+intercept, ed (roka gaya)
+روکنا
