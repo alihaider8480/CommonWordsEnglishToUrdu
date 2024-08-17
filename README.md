@@ -1028,3 +1028,7 @@ struck
 مارا
 retaliatory (matlab badla lana)
 انتقامی
+
+
+casualties
+ہلاکتیں
