@@ -1036,3 +1036,6 @@ casualties
 
 ditche
 ہلاکتیں
+coerce 
+زبردستی
+
