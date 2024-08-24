@@ -1046,3 +1046,5 @@ tenant
 کرایہ دار
 weakness
 کمزوری
+closer 
+قریب
