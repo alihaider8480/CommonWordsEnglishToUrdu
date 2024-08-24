@@ -1042,3 +1042,7 @@ coerce
 
 incredible 
 ناقابل یقین
+tenant
+کرایہ دار
+weakness
+کمزوری
