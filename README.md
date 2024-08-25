@@ -1033,7 +1033,8 @@ retaliatory (matlab badla lana)
 casualties
 ہلاکتیں
 
-
+deepest , deep = گہرا
+سب سے گہرا
 ditche
 ہلاکتیں
 coerce 
