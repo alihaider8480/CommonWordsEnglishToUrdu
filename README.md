@@ -1048,3 +1048,5 @@ weakness
 کمزوری
 closer 
 قریب
+criticize
+تنقید کرنا
