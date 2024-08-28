@@ -1051,3 +1051,5 @@ closer
 قریب
 criticize
 تنقید کرنا
+consists = (consist =  per مشتمل)
+پر مشتمل ہے
