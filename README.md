@@ -1063,3 +1063,6 @@ fall short
 
 exacerbate
 بڑھانا
+
+dispute = disputes means جهگڑا کرنا / تنازعات
+جهگڑا کرنا
