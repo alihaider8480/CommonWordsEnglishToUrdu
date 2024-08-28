@@ -1057,3 +1057,6 @@ consists = (consist =  per مشتمل)
 
 fall , fallen = گر گیا
 گرنا
+
+fall short
+کم پڑنا
