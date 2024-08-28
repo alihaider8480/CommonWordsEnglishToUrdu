@@ -1060,3 +1060,6 @@ fall , fallen = گر گیا
 
 fall short
 کم پڑنا
+
+exacerbate
+بڑھانا
