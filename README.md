@@ -1053,3 +1053,7 @@ criticize
 تنقید کرنا
 consists = (consist =  per مشتمل)
 پر مشتمل ہے
+
+
+fall , fallen = گر گیا
+گرنا
