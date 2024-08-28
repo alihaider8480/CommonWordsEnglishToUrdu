@@ -1066,3 +1066,7 @@ exacerbate
 
 dispute = disputes means جهگڑا کرنا / تنازعات
 جهگڑا کرنا
+
+
+Tortilla
+روٹی
