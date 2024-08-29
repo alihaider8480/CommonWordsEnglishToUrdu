@@ -1070,3 +1070,5 @@ dispute = disputes means جهگڑا کرنا / تنازعات
 
 Tortilla
 روٹی
+closely
+قریب سے
