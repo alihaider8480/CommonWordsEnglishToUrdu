@@ -1072,3 +1072,7 @@ Tortilla
 روٹی
 closely
 قریب سے
+genocide
+نسل کشی
+
+
