@@ -1075,4 +1075,9 @@ closely
 genocide
 نسل کشی
 
-
+unusul
+غیر معمولی
+usual
+معمول
+usually
+عام طور پر
