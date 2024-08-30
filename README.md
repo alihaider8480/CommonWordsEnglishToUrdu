@@ -1081,3 +1081,7 @@ usual
 معمول
 usually
 عام طور پر
+blaze
+آگ
+blazed
+جل گیا
