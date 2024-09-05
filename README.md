@@ -1095,3 +1095,5 @@ prevent
 روکنا
 victim
 شکار
+rip , ripped/ phardia
+چیرڈالنا
