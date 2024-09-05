@@ -1097,3 +1097,5 @@ victim
 شکار
 rip , ripped/ phardia
 چیرڈالنا
+bearish___mandey
+مندی
