@@ -1093,3 +1093,5 @@ disease
 بیماری
 prevent 
 روکنا
+victim
+شکار
