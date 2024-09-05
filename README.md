@@ -1088,3 +1088,8 @@ blazed
 
 hike
 پیدل سفر
+
+disease 
+بیماری
+prevent 
+روکنا
