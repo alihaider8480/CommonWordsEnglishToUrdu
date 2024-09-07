@@ -1099,3 +1099,5 @@ rip , ripped/ phardia
 چیرڈالنا
 bearish___mandey
 مندی
+massive 
+بڑے پیمانے پر
