@@ -1101,3 +1101,7 @@ bearish___mandey
 مندی
 massive 
 بڑے پیمانے پر
+Fellow
+ساتھی
+useless
+بیکار
