@@ -1105,3 +1105,9 @@ Fellow
 ساتھی
 useless
 بیکار
+grave
+قبر
+graveyard 
+قبرستان
+hell
+جہنم
