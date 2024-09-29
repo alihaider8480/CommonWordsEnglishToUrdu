@@ -1111,3 +1111,5 @@ graveyard
 قبرستان
 hell
 جہنم
+assassination 
+قتل
