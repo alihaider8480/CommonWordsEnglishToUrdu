@@ -1113,3 +1113,5 @@ hell
 جہنم
 assassination 
 قتل
+somehow
+کسی طرح
