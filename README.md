@@ -1115,3 +1115,5 @@ assassination
 قتل
 somehow
 کسی طرح
+bakers
+حمایتی
