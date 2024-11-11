@@ -1117,3 +1117,18 @@ somehow
 کسی طرح
 bakers
 حمایتی
+
+conquer
+فتح
+fear
+خوف
+fearful
+خوفناک
+superior
+اعلی
+inferior
+کمتری,بدتر
+inferiority 
+کمتری
+inferiority feelings
+احساس کمتری
