@@ -1132,3 +1132,7 @@ inferiority
 کمتری
 inferiority feelings
 احساس کمتری
+humble request
+عاجزانہ درخواست
+adobe
+برف کا ٹھکانہ
