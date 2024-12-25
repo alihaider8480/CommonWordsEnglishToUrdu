@@ -1136,3 +1136,9 @@ humble request
 عاجزانہ درخواست
 adobe
 برف کا ٹھکانہ
+will be
+ہوگا
+should be 
+ہونا چاہئے
+could be 
+ہو سکتا ہے
