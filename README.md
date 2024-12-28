@@ -80,7 +80,7 @@ Cure
 
 علاج
 
-Deceit. , Cheat
+Deceit. , Cheat, betray
 
 دھوکہ
 
