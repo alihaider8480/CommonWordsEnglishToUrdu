@@ -1150,3 +1150,10 @@ truce
 جنگ بندی
 collapse 
 ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا
+
+way too much
+بہت زیادہ
+you give me way too much information to me
+آپ مجھے بہت زیادہ معلومات دیتے ہیں۔
+besides that
+اس کے علاوہ
