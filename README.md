@@ -1157,3 +1157,5 @@ you give me way too much information to me
 آپ مجھے بہت زیادہ معلومات دیتے ہیں۔
 besides that
 اس کے علاوہ
+i'm asking each question one a time
+میں ہر سوال ایک بار پوچھتا ہوں
