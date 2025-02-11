@@ -1159,3 +1159,7 @@ besides that
 اس کے علاوہ
 i'm asking each question one a time
 میں ہر سوال ایک بار پوچھتا ہوں
+
+
+run out, finished 
+ختم ہوگیا
