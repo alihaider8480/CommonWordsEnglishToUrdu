@@ -1163,3 +1163,11 @@ i'm asking each question one a time
 
 run out, finished 
 ختم ہوگیا
+
+
+as far as i know
+جہاں تک میں جانتا ہوں۔
+
+as far as
+جہاں تک میں
+
