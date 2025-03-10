@@ -1171,5 +1171,7 @@ as far as i know
 as far as
 جہاں تک
 
+take off
+اتار دو
 
 
