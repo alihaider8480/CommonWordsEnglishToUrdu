@@ -1174,4 +1174,8 @@ as far as
 take off
 اتار دو
 
+that's what
+یہی تو
+
+
 
