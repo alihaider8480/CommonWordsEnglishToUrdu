@@ -1174,7 +1174,7 @@ as far as
 take off
 اتار دو
 
-that's what
+that's what,exactly=بالکل
 یہی تو
 
 
