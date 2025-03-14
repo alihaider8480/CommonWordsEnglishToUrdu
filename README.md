@@ -1178,4 +1178,11 @@ that's what,exactly=بالکل
 یہی تو
 
 
+all of a sudden my phone rang
+اچانک سے میرے فون کی گھنٹی بجی۔
+
+all of a sudden
+اچانک سے
+
+
 
