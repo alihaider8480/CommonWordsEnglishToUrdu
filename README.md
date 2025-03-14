@@ -863,70 +863,95 @@ impassioned
 
 
 Wonder
+
 تعجب
 
+
 Sees
+
 دیکھتا ہے
 
+
 Deaf and dumb
+
 بہرے اور گونگے
 
+
 Cottage
+
 جھونپڑا, ghareeb ka Ghar village ma
 
 
 Shook
+
 ہلایا
 
 Doubtful, skeptical?
+
 شکی,?
 
 accumulate
+
 جمع کریں
 
 Exploit
+
 کارنامہ
 
 consolidated
+
 جوڑنا
 
 accelerate
+
 تیز کریں
 
 occupied
+
 قبضہ کر لیا
+
 occupy
+
 قبضہ
 
 reward
+
 فائدہ
 
 on-premises ?
+
 leverage ?
 
 
 on-premises
+
 پر موجود?????????????????????
 
 
 seam ? seamless
 
 specially
+
 خاص طور پر
 
 peculiarly
+
 انوکھے انداز سے, عجیب انداز سے
 
 accommodation
+
 رہائش
 
-crucial 
+crucial
+
 اہم
 
 Memorandum
+
 یادداشت
 
 liaise
+
 رابطہ
 
 recommence
@@ -935,43 +960,62 @@ recommence
 
 
 accordance
+
 کے مطابق
 
 intention
+
 جانے کا ارادہ ہے
 
 stipulated 
+
 مقرر
+
 stipulate
+
 شرط لگانا
+
 stipulation
+
 شرط
 
 particularly
+
 شرط
+
 
 residue
 باقیات(something that remains after a part is taken)
 
 
 flog 
+
 کوڑے مارنا
+
 scatter
+
 بکھرنا
 
 
 inquisitive = having or showing an interest in learning things
 
+
 wee
+
 پیشاب
+
 
 stew 
 khna ka sath istamal karta hia kasa khaana ban gaya  stew food compelete
 
 
+
 lick
+
 چاٹ
+
 sweat
+
 پسینہ
 
 voilated 
