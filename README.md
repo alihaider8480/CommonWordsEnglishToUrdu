@@ -1134,49 +1134,49 @@ inferiority feelings
 احساس کمتری
 humble request
 عاجزانہ درخواست
-<br />adobe
-برف کا ٹھکان<br />ہ
-<br />will be
-ہوگا<br />
-<br />should be 
-ہونا چاہئے<br />
-<br />could be 
-ہو سکتا ہے,کر پا تا<br />
-<br />wish
-خواہش,کا ش<br />
-<br />at least 
-کم از کم<br />
-<br />truce
-جنگ بندی<br />
-<br />collapse 
-ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا<br />
-<br />way too much
-بہت زیاد<br />ہ
-<br />you give me way too much information to me
-آپ مجھے بہت زیادہ معلومات دیتے ہیں۔<br />
-<br />besides that
-اس کے علاوہ<br />
-<br />i'm asking each question one a time
-میں ہر سوال ایک بار پوچھتا ہوں<br />
-<br />run out, finished 
+adobe
+برف کا ٹھکانہ
+will be
+ہوگا
+should be 
+ہونا چاہئے
+could be 
+ہو سکتا ہے,کر پا تا
+wish
+خواہش,کا ش
+at least 
+کم از کم
+truce
+جنگ بندی
+collapse 
+ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا
+way too much
+بہت زیادہ
+you give me way too much information to me
+آپ مجھے بہت زیادہ معلومات دیتے ہیں۔
+besides that
+اس کے علاوہ
+i'm asking each question one a time
+میں ہر سوال ایک بار پوچھتا ہوں
+run out, finished <br />
 ختم ہوگیا<br />
-<br />as far as i know
+as far as i know<br />
 جہاں تک میں جانتا ہوں۔<br />
-<br />as far as
+as far as<br />
 جہاں تک<br />
-<br />take off
+take off<br />
 اتار دو<br />
-<br />that's what,exactly=بالکل
+that's what,exactly=بالکل<br />
 یہی تو<br />
-<br />all of a sudden my phone rang
+all of a sudden my phone rang<br />
 اچانک سے میرے فون کی گھنٹی بجی۔<br />
-<br />all of a sudden
+all of a sudden<br />
 اچانک سے<br />
-<br />don't Mess with anything
+don't Mess with anything<br />
 کسی چیز کے ساتھ گڑبڑ نہ کرو<br />
-<br />Mess
+Mess<br />
 گڑبڑ<br />
-<br />where is the crew ?
+<where is the crew ?<br />
 عملہ کہاں ہے؟<br />
-<br />crew
+crew<br />
 عملہ<br />
