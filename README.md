@@ -1134,98 +1134,49 @@ inferiority feelings
 احساس کمتری
 humble request
 عاجزانہ درخواست
-adobe
-برف کا ٹھکانہ
-will be
-ہوگا
-should be 
-ہونا چاہئے
-could be 
-ہو سکتا ہے,کر پا تا
-wish
-خواہش,کا ش
-at least 
-کم از کم
-truce
-جنگ بندی
-collapse 
-ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا
-
-way too much
-بہت زیادہ
-you give me way too much information to me
-آپ مجھے بہت زیادہ معلومات دیتے ہیں۔
-besides that
-اس کے علاوہ
-i'm asking each question one a time
-میں ہر سوال ایک بار پوچھتا ہوں
-
-
-run out, finished 
-ختم ہوگیا
-
-
-as far as i know
-جہاں تک میں جانتا ہوں۔
-
-as far as
-جہاں تک
-
-take off
-اتار دو
-
-that's what,exactly=بالکل
-یہی تو
-
-
-all of a sudden my phone rang
-اچانک سے میرے فون کی گھنٹی بجی۔
-
-all of a sudden
-اچانک سے
-
-
-don't Mess with anything
-کسی چیز کے ساتھ گڑبڑ نہ کرو
-Mess
-گڑبڑ
-
-where is the crew ?
-عملہ کہاں ہے؟
-crew
-عملہ
-ali haider
-syed 
-عملہ کہاں ہے؟
-slai 
-عملہ کہاں ہے؟
-lsfjd
-عملہ کہاں ہے؟
-
-alau
-عملہ کہاں ہے؟
-sfdg
-عملہ کہاں ہے؟
-fsdgfhgj
-عملہ کہاں ہے؟
-
-qwert
-عملہ کہاں ہے؟
-qwerty
-234567
-عملہ کہاں ہے؟
-2345678i
-defrgthyj
-عملہ کہاں ہے؟
-234567
-عملہ کہاں ہے؟
-345678i
-عملہ کہاں ہے؟
-------------
-123
-<br />
-عملہ کہاں ہے؟
-<br />
-1234
-<br />
-عملہ کہاں ہے؟
+<br />adobe
+برف کا ٹھکان<br />ہ
+<br />will be
+ہوگا<br />
+<br />should be 
+ہونا چاہئے<br />
+<br />could be 
+ہو سکتا ہے,کر پا تا<br />
+<br />wish
+خواہش,کا ش<br />
+<br />at least 
+کم از کم<br />
+<br />truce
+جنگ بندی<br />
+<br />collapse 
+ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا<br />
+<br />way too much
+بہت زیاد<br />ہ
+<br />you give me way too much information to me
+آپ مجھے بہت زیادہ معلومات دیتے ہیں۔<br />
+<br />besides that
+اس کے علاوہ<br />
+<br />i'm asking each question one a time
+میں ہر سوال ایک بار پوچھتا ہوں<br />
+<br />run out, finished 
+ختم ہوگیا<br />
+<br />as far as i know
+جہاں تک میں جانتا ہوں۔<br />
+<br />as far as
+جہاں تک<br />
+<br />take off
+اتار دو<br />
+<br />that's what,exactly=بالکل
+یہی تو<br />
+<br />all of a sudden my phone rang
+اچانک سے میرے فون کی گھنٹی بجی۔<br />
+<br />all of a sudden
+اچانک سے<br />
+<br />don't Mess with anything
+کسی چیز کے ساتھ گڑبڑ نہ کرو<br />
+<br />Mess
+گڑبڑ<br />
+<br />where is the crew ?
+عملہ کہاں ہے؟<br />
+<br />crew
+عملہ<br />
