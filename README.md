@@ -153,7 +153,9 @@ Matlab mati ka pathar sand ka pathar banan
 
 Bookmark
 
+
 Nishani
+
 
 Acquire
 
@@ -231,7 +233,10 @@ jungYard
 
 جنگل کا باغ
 
-Mistreated بدسلوکی
+Mistreated 
+
+بدسلوکی
+
 
 Tolerate
 
@@ -253,7 +258,10 @@ Terrible
 
 خوفناک
 
-Admirتعریف کرتا ہ
+Admir
+
+تعریف کرتا ہ
+
 
 تعریف کرتا ہے
 
@@ -729,7 +737,10 @@ Delightedfull
 
 خوشگوار
 
-Elaborate تفصیل سے
+Elaborate
+
+تفصیل سے
+
 
 Obligatory, act = عمل
 
@@ -747,80 +758,107 @@ Annoys , Annoy
 
 ناراض , پریشان کرتا ہے
 
+
 alot
+
 بہت زيادہ
+
+
 a lot of
+
 بہت سے
 
 a lot or a little
+
 بہت یا تھوڑا سا
 
 a little
+
 ھوڑا سا
 
 huge
+
 بڑی
 
+
 hug
+
 گلے لگانا
 
 
 familiar, know, aware
+
 واقف = جانا پھیچانا
 
 
-حوصلہ افزائی (hausla afzai)
 encourage, excited, motivation, inspire, induced
 
+حوصلہ افزائی (hausla afzai)
 
+exciting,interesting, intriguing
 
 دلچسپ (dilchasp)
-exciting,interesting, intriguing
 
 
 awair             = setting chakar
 
+
 scold , scolded=ڈانٹا
+
 
 
 ڈانٹنا
 
 
-thirsty 
+thirsty
+
 پیاسا
+
 tying
+
  باندھنا
 
 
 
 tying the knot
+
 گرہ باندھنا
 
 buttoning or buttoning up
+
 بٹن لگانا
 
 
-frightخوف
+fright
+
+خوف
 
 
 afraid 
+
 ڈرنا
 
-afraid of what 
+afraid of what
+
 کس چیز سے ڈرتے ہیں؟
 
 
 
-fasten 
+
+fasten
+
 جکڑنا
 
-pleas 
+pleas
+
 درخواستیں
 
 evidence
+
 ثبوت
 
 impassioned
+
 جذباتی طور پر
 
 
@@ -1132,11 +1170,15 @@ will be
 should be 
 ہونا چاہئے
 could be 
+
+
 ہو سکتا ہے,کر پا تا
+
 wish
-خواہش,کا <br />ش
+
+خواہش,کاش
 at least <br />
-کم از ک<br />م
+کم از کم
 truce<br />
 جنگ بندی <br />
 collapse <br />
@@ -1171,18 +1213,3 @@ where is the crew ?<br />
 عملہ کہاں ہے؟<br />
 crew<br />
 عملہ<br />
-1234
-
-عملہ کہاں ہے
-
-123456
-
-عملہ کہاں ہے
-
-12345678
-
-عملہ کہاں ہے
-
-wertyui
-
-عملہ کہاں ہے
