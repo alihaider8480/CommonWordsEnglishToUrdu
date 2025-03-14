@@ -4,29 +4,20 @@
 https://www.facebook.com/reel/1671553480025919?mibextid=9drbnH&s=yWDuG2&fs=e
 Colombiana movie.
 
-Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
+Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga<br />
 
-Ly = سے
+Ly = سے<br />
 
-Widow
-
-بیوہ
-
-Bet
-
-شرط
-
-Bribe
-
-رشوت
-
-STRENGTH
-
-طاقت
-
-Sorrowful
-
-دکھی
+Widow<br />
+بیوہ<br />
+Bet<br />
+شرط<br />
+Bribe<br />
+رشوت<br />
+STRENGTH<br />
+طاقت<br />
+Sorrowful<br />
+دکھی<br />
 
 Considered as
 
@@ -1143,21 +1134,21 @@ should be
 could be 
 ہو سکتا ہے,کر پا تا
 wish
-خواہش,کا ش
-at least 
-کم از کم
-truce
-جنگ بندی
-collapse 
-ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا
-way too much
-بہت زیادہ
-you give me way too much information to me
-آپ مجھے بہت زیادہ معلومات دیتے ہیں۔
-besides that
-اس کے علاوہ
-i'm asking each question one a time
-میں ہر سوال ایک بار پوچھتا ہوں
+خواہش,کا <br />ش
+at least <br />
+کم از ک<br />م
+truce<br />
+جنگ بندی <br />
+collapse <br />
+ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجان<br />ا
+way too much<br />
+بہت زیاد<br />ہ
+you give me way too much information to me<br />
+آپ مجھے بہت زیادہ معلومات دیتے ہیں۔<br />
+besides that<br />
+اس کے علاوہ<br />
+i'm asking each question one a time<br />
+میں ہر سوال ایک بار پوچھتا ہوں<br />
 run out, finished <br />
 ختم ہوگیا<br />
 as far as i know<br />
@@ -1176,7 +1167,7 @@ don't Mess with anything<br />
 کسی چیز کے ساتھ گڑبڑ نہ کرو<br />
 Mess<br />
 گڑبڑ<br />
-<where is the crew ?<br />
+where is the crew ?<br />
 عملہ کہاں ہے؟<br />
 crew<br />
 عملہ<br />
