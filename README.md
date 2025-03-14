@@ -1189,3 +1189,9 @@ don't Mess with anything
 کسی چیز کے ساتھ گڑبڑ نہ کرو
 Mess
 گڑبڑ
+
+where is the crew ?
+عملہ کہاں ہے؟
+crew
+عملہ
+
