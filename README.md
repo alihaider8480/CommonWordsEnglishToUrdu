@@ -1185,7 +1185,7 @@ all of a sudden
 اچانک سے
 
 
-don't Mess
-گڑبڑ نہ کرو
+don't Mess with anything
+کسی چیز کے ساتھ گڑبڑ نہ کرو
 Mess
 گڑبڑ
