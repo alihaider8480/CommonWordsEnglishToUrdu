@@ -1264,3 +1264,11 @@ where is the crew ?<br />
 عملہ کہاں ہے؟<br />
 crew<br />
 عملہ<br />
+
+i have nothing to do with you
+
+میرا تم سے کوئی تعلق نہیں ہے۔
+
+i have nothing to do with 
+
+میرا اس سے کوئی تعلق نہیں ہے۔
