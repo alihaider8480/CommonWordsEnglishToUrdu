@@ -547,9 +547,16 @@ Worry
 
 فکر
 
+
+He ought to be home by seven o'clock.
+
+اسے سات بجے تک گھر پر ہونا چاہئے تھا۔
+
+
+
 Ought
 
-چاہئے
+لازمی طور پر, اخلاقی طور پر, ہونا چاہیے
 
 Sight,sight of me:میری نظر
 
