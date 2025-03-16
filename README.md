@@ -1271,4 +1271,10 @@ i have nothing to do with you
 
 i have nothing to do with 
 
-میرا اس سے کوئی تعلق نہیں ہے۔
+میرا اس سے کوئی تعلق نہیں ہے
+
+blindfold
+
+آنکھوں پر پٹی
+
+۔
