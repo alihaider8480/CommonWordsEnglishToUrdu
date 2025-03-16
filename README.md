@@ -4,20 +4,20 @@
 https://www.facebook.com/reel/1671553480025919?mibextid=9drbnH&s=yWDuG2&fs=e
 Colombiana movie.
 
-Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga<br />
+Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
-Ly = سے<br />
+Ly = سے 
 
-Widow<br />
-بیوہ<br />
-Bet<br />
-شرط<br />
-Bribe<br />
-رشوت<br />
-STRENGTH<br />
-طاقت<br />
-Sorrowful<br />
-دکھی<br />
+Widow 
+بیوہ 
+Bet 
+شرط 
+Bribe 
+رشوت 
+STRENGTH 
+طاقت 
+Sorrowful 
+دکھی 
 
 Considered as
 
@@ -1358,39 +1358,76 @@ at least
 کم از کم
 
 truce
-جنگ بندی <br />
-collapse <br />
-ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجان<br />ا
-way too much<br />
-بہت زیاد<br />ہ
-you give me way too much information to me<br />
-آپ مجھے بہت زیادہ معلومات دیتے ہیں۔<br />
-besides that<br />
-اس کے علاوہ<br />
-i'm asking each question one a time<br />
-میں ہر سوال ایک بار پوچھتا ہوں<br />
-run out, finished <br />
-ختم ہوگیا<br />
-as far as i know<br />
-جہاں تک میں جانتا ہوں۔<br />
-as far as<br />
-جہاں تک<br />
-take off<br />
-اتار دو<br />
-that's what,exactly=بالکل<br />
-یہی تو<br />
-all of a sudden my phone rang<br />
-اچانک سے میرے فون کی گھنٹی بجی۔<br />
-all of a sudden<br />
-اچانک سے<br />
-don't Mess with anything<br />
-کسی چیز کے ساتھ گڑبڑ نہ کرو<br />
-Mess<br />
-گڑبڑ<br />
-where is the crew ?<br />
-عملہ کہاں ہے؟<br />
-crew<br />
-عملہ<br />
+
+جنگ بندی  
+
+collapse
+
+ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجانا
+
+way too much
+
+بہت زیاد ہ
+
+you give me way too much information to me
+
+آپ مجھے بہت زیادہ معلومات دیتے ہیں۔ 
+
+besides that
+
+اس کے علاوہ 
+
+i'm asking each question one a time
+
+میں ہر سوال ایک بار پوچھتا ہوں 
+
+run out, finished
+
+ختم ہوگیا 
+
+as far as i know
+
+جہاں تک میں جانتا ہوں۔ 
+
+as far as
+
+جہاں تک 
+
+take off
+
+اتار دو 
+
+that's what
+
+یہی تو 
+
+exactly
+
+بالکل
+
+all of a sudden my phone rang
+
+اچانک سے میرے فون کی گھنٹی بجی۔ 
+
+all of a sudden
+
+اچانک سے 
+
+don't Mess with anything
+
+کسی چیز کے ساتھ گڑبڑ نہ کرو 
+
+Mess
+
+گڑبڑ 
+
+where is the crew ?
+
+عملہ کہاں ہے؟ 
+
+crew
+
+عملہ 
 
 i have nothing to do with you
 
