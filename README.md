@@ -640,6 +640,8 @@ Detective
 
 Contaminate
 
+خراب کرن,آلودہ کرن,ناپاک کرنا
+
 Underneath
 
 نیچے ، تحت، زیر، اندر کی طرف۔
@@ -807,15 +809,10 @@ exciting,interesting, intriguing
 دلچسپ (dilchasp)
 
 
-awair             = setting chakar
-
-
 scold , scolded=ڈانٹا
 
 
-
 ڈانٹنا
-
 
 thirsty
 
@@ -840,17 +837,14 @@ fright
 
 خوف
 
-
-afraid 
-
-ڈرنا
-
 afraid of what
 
 کس چیز سے ڈرتے ہیں؟
 
 
+afraid 
 
+ڈرنا
 
 fasten
 
@@ -991,9 +985,9 @@ particularly
 شرط
 
 
-residue
-باقیات(something that remains after a part is taken)
+residue : (something that remains after a part is taken)
 
+باقیات
 
 flog 
 
@@ -1004,7 +998,9 @@ scatter
 بکھرنا
 
 
-inquisitive = having or showing an interest in learning things
+inquisitive = 
+
+                                                                 having or showing an interest in learning things
 
 
 wee
@@ -1026,6 +1022,7 @@ sweat
 پسینہ
 
 voilated 
+
 خلاف ورزی کی
 
 trauma
@@ -1407,4 +1404,3 @@ blindfold
 
 آنکھوں پر پٹی
 
-۔
