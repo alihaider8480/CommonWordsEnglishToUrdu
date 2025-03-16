@@ -1462,3 +1462,7 @@ ribs
 rib
 
 پسلی
+
+peacefully
+
+امن سے , پرامن
