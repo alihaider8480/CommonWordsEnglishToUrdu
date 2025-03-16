@@ -1030,13 +1030,20 @@ voilated
 
 trauma
 
+
 صدمہ
+
+
 prevent
 روکنا
+
 hesitation
+
 ہچکچاہٹ
 
+
 irritate
+
 چڑچڑانا
 
 rush = rushed
@@ -1044,124 +1051,194 @@ rush = rushed
 جلدی
 
 hoover
+
 کوڑا پھنکی
+
 as usual
+
 ہمیشہ کی طرح
+
 curiosity = had sa ziada interest lana
+
 تجسس,دلچسپی
+
 it's up to you
+
 یہ آپ پر منحصر ہے
 
 demonstrative 
+
 نمائشی, dikhana show karna,display feeling openly
 
 possession
+
 ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
 
-revamp , revamping 
+revamp , revamping
+
 اصلاح  , اصلاح کرنا
+
 obstacle
+
 رکاوٹ
 
+
 traitor
+
 غدار
 
 ![Basic English Grammar Book](https://github.com/alihaider8480/CommonWordsEnglishToUrdu/assets/40827670/a978c119-ff34-44d0-813b-d03ec39aa382)
 
 
+
+
 intention
+
 ارادہ
 
 conceal
+
 چھپانا
 
-sins 
+sins
+
 گناہ
-resistance 
+
+resistance
+
 مزاحمت
 
 anticipate date
+
 متوقع تاریخ
 
 expiate
+
 کفارہ دینا
 
 tremble
+
 کانپنا
-enliven 
+
+enliven
+
 زندہ کرنا
 
 
 abundance
+
 کثرت(a very large quantity of something)
+
 harvest
+
 فصل
 
 wild
+
 جنگلی
 
 hassle
+
 پریشانی
+
 intercept, ed (roka gaya)
+
 روکنا
-struck 
+
+struck
+
 مارا
+
 retaliatory (matlab badla lana)
+
 انتقامی
 
 
 casualties
+
 ہلاکتیں
 
 deepest , deep = گہرا
+
 سب سے گہرا
+
 ditche
+
 ہلاکتیں
-coerce 
+
+coerce
+
 زبردستی
 
 
-incredible 
+incredible
+
 ناقابل یقین
+
 tenant
+
 کرایہ دار
+
 weakness
+
 کمزوری
-closer 
+
+closer
+
 قریب
+
 criticize
+
 تنقید کرنا
+
 consists = (consist =  per مشتمل)
+
 پر مشتمل ہے
 
 
 fall , fallen = گر گیا
+
 گرنا
 
 fall short
+
 کم پڑنا
 
 exacerbate
+
 بڑھانا
 
 dispute = disputes means جهگڑا کرنا / تنازعات
+
 جهگڑا کرنا
 
 
 Tortilla
+
 روٹی
+
 closely
+
 قریب سے
+
 genocide
+
 نسل کشی
 
 unusul
+
 غیر معمولی
+
 usual
+
 معمول
+
 usually
+
 عام طور پر
+
 blaze
+
 آگ
 blazed
 جل گیا
