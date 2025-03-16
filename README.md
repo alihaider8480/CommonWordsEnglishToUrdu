@@ -153,8 +153,14 @@ Matlab mati ka pathar sand ka pathar banan
 
 Bookmark
 
+ نِشانی,نِشانی کے طور پر رکھنے
+
 
 Nishani
+
+reacquire
+
+دوبارہ حاصل کرنا
 
 
 Acquire
