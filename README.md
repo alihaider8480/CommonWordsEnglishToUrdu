@@ -1030,11 +1030,10 @@ voilated
 
 trauma
 
-
 صدمہ
 
-
 prevent
+
 روکنا
 
 hesitation
@@ -1053,10 +1052,6 @@ rush = rushed
 hoover
 
 کوڑا پھنکی
-
-as usual
-
-ہمیشہ کی طرح
 
 curiosity = had sa ziada interest lana
 
@@ -1237,77 +1232,135 @@ usually
 
 عام طور پر
 
+as usual
+
+ہمیشہ کی طرح
+
 blaze
 
 آگ
+
 blazed
+
 جل گیا
 
 hike
+
 پیدل سفر
 
-disease 
+disease
+
 بیماری
-prevent 
+
+prevent
+
 روکنا
+
 victim
+
 شکار
+
 rip , ripped/ phardia
+
 چیرڈالنا
-bearish___mandey
+
+bearish = mandey
+
 مندی
-massive 
+
+massive
+
 بڑے پیمانے پر
+
 Fellow
+
 ساتھی
+
 useless
+
 بیکار
+
 grave
+
 قبر
-graveyard 
+
+graveyard
+
 قبرستان
+
 hell
+
 جہنم
-assassination 
+
+assassination
+
 قتل
+
 somehow
+
 کسی طرح
+
 bakers
+
 حمایتی
 
 conquer
-فتح
-fear
-خوف
-fearful
-خوفناک
-superior
-اعلی
-inferior
-کمتری,بدتر
-inferiority 
-کمتری
-inferiority feelings
-احساس کمتری
-humble request
-عاجزانہ درخواست
-adobe
-برف کا ٹھکانہ
-will be
-ہوگا
-should be 
-ہونا چاہئے
-could be 
 
+فتح
+
+fear
+
+خوف
+
+fearful
+
+خوفناک
+
+superior
+
+اعلی
+
+inferior
+
+کمتری,بدتر
+
+inferiority
+
+کمتری
+
+inferiority feelings
+
+احساس کمتری
+
+humble request
+
+عاجزانہ درخواست
+
+adobe
+
+برف کا ٹھکانہ
+
+will be
+
+ہوگا
+
+should be
+
+ہونا چاہئے
+
+could be
 
 ہو سکتا ہے,کر پا تا
 
 wish
 
 خواہش,کاش
-at least <br />
+
+at least
+
 کم از کم
-truce<br />
+
+truce
 جنگ بندی <br />
 collapse <br />
 ہمت ہار جانا, ٹوٹ جانا, ڈھیر ہوجان<br />ا
