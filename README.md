@@ -797,7 +797,7 @@ hug
 
 familiar, know, aware
 
-واقف = جانا پھیچانا
+جانا پھیچانا , واقف ہونا , آگاہ ہونا , معلوم ہونا
 
 
 encourage, excited, motivation, inspire, induced
