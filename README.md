@@ -1478,3 +1478,7 @@ Hostiles
 inbound
 
 زیر تحویل , تحویل
+
+devil
+
+شیطان
