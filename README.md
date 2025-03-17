@@ -1447,7 +1447,7 @@ blindfold
 
 آنکھوں پر پٹی
 
-idiot
+idiot , fool
 
 بے وقوف
 
