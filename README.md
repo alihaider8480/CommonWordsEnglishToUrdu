@@ -672,9 +672,6 @@ Irregularity,ies
 
 بے قاعدگی
 
-disappear
-
-غائب
 
 Wealthiest
 
@@ -1482,3 +1479,40 @@ inbound
 devil
 
 شیطان
+
+absent
+
+غیر حاضر , غائب
+
+
+disappear
+
+غائب
+
+present
+
+حاضر , موجود
+
+appear
+
+ظاہر ہونا , نموندار هونا
+
+alive
+
+زندہ
+
+dead
+
+مردہ
+
+acceptance
+
+قبولیت
+
+accept
+
+قبول کرna , قبول
+
+Downfall
+
+بربادی , تباہی
