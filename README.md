@@ -1516,3 +1516,53 @@ accept
 Downfall
 
 بربادی , تباہی
+
+decline
+
+انکار کرنا
+
+all
+
+تمام , سب
+
+none of them
+
+ان میں سے کوئی نہیں
+
+
+none
+
+کوئی نہیں
+
+arrive
+
+پہنچنا , آنا
+
+depart
+
+روانہ , بچهڑنا
+
+always
+
+ہمیشہ
+
+never 
+
+کبھی نہیں , هرگز نہیں
+
+nothing goes to with him
+
+اس کے ساتھ بات کرنے کے لئے کچھ نہیں ہے
+
+nothing goes to + V 1rst
+
+کچھ نہیں جاتا
+
+onetheless
+
+اس کے باوجود
+
+nonetheless
+
+بہر حال
+
