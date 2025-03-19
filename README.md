@@ -1558,11 +1558,7 @@ nothing goes to + V 1rst
 
 کچھ نہیں جاتا
 
-onetheless
-
-اس کے باوجود
-
 nonetheless
 
-بہر حال
+بہر حال , اس کے باوجود
 
