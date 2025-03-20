@@ -1574,3 +1574,10 @@ let him ( ya kam usa karna do)
 
 اسے +  verb 1rst form+ دو
 
+tender
+
+مُلائِم , تازَہ , نَرم
+
+via
+
+ذریعے سے , راستے سے
