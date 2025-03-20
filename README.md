@@ -1562,3 +1562,15 @@ nonetheless
 
 بہر حال , اس کے باوجود
 
+let him come inside
+
+اسے اندر آنے دو
+
+let him speak
+
+اسے بولنے دو
+
+let him ( ya kam usa karna do)
+
+اسے +  verb 1rst form+ دو
+
