@@ -1394,7 +1394,15 @@ as far as i know
 
 as far as
 
-جہاں تک 
+جہاں تک
+
+as soon as be comes then we will go
+
+جیسے ہی وہ آئے گا ہم جائیں گے۔
+
+as soon as
+
+جیسے ہی
 
 take off
 
