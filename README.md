@@ -1580,7 +1580,7 @@ let him speak
 
 let him ( ya kam usa karna do)
 
-اسے +  verb 1rst form+ دو
+دو +  verb 1rst form+ اسے
 
 tender
 
