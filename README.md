@@ -1594,3 +1594,7 @@ via
 stubborn
 
 ضدی , ضد
+
+as long as
+
+جب تک
