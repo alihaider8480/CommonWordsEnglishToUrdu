@@ -9,14 +9,23 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 Ly = سے 
 
 Widow 
+
 بیوہ 
+
 Bet 
+
 شرط 
+
 Bribe 
+
 رشوت 
+
 STRENGTH 
+
 طاقت 
+
 Sorrowful 
+
 دکھی 
 
 Considered as
