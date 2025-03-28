@@ -1612,3 +1612,7 @@ concerned
 
 تعلق
 
+fiance
+
+ (mangatar)منگیتر
+
