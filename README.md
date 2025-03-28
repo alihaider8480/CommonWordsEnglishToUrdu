@@ -1647,3 +1647,11 @@ hopeless
 Terrified
 
 خوفزدہ
+
+Ali ruined Kazim's breakfast.
+
+علی نے کاظم کا ناشتہ برباد کر دیا۔
+
+ruin
+
+بربادی , برباد
