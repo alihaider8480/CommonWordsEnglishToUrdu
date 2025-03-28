@@ -1624,6 +1624,23 @@ whose
 
  کس کا, جس کا  
 
+the stain's not coming out
+
+داغ باہر نہیں آ رہا ہے
+
+not coming out
+
+باہر نہیں آرہا؟
+
+coming out
+
+باہر آ رہا ہے
+
 stain
 
 داغ
+
+
+
+
+
