@@ -1607,3 +1607,8 @@ stubborn
 as long as
 
 جب تک
+
+concerned
+
+تعلق
+
