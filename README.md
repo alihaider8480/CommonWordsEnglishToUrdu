@@ -1702,6 +1702,9 @@ dont rush
 
 جلدی نہ کرو
 
+there is no rush
+
+کوئی جلدی نہیں ہے
 
 rush
 
@@ -1709,8 +1712,20 @@ rush
 
 
 
+there is nothing like that
+
+ایسی بات نی ہے , 
+
+there is something like that
+
+ایسی بات ہے
+
+There is no such thing
+
+ایسی بات نی ہے
 
 
+there is such a thing
 
-
+ایسی بات ہے
 
