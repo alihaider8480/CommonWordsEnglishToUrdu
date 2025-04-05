@@ -1698,8 +1698,14 @@ what is there to + verb 1rst fom
 
 اس می ایسا کرنے کی کیا ضرورت ہے
 
+dont rush
+
+جلدی نہ کرو
 
 
+rush
+
+جلدی
 
 
 
