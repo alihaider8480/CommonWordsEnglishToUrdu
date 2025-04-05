@@ -1681,6 +1681,22 @@ yokel
 
 گوارا
 
+how you got angry
+
+آپ کو غصہ کیسے آیا
+
+how come
+
+ایسا کیوں؟, ایسا کیوں ہوا؟ , ایسے کیسے
+
+
+what is there to cry
+
+اس می رونے کی کیا بات ہے 
+
+what is there to + verb 1rst fom
+
+اس می ایسا کرنے کی کیا ضرورت ہے
 
 
 
