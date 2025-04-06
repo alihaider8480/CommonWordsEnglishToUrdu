@@ -1738,5 +1738,12 @@ inshort
 
 مختصر
 
+the clothes are being washed
 
+کپڑے دھول رہے ہے
+
+
+being + ver 2nd form
+
+مطلب جو کا م ابھی کیا جا رہا ہے اسکے لئے استعمال ہوتا ہے
 
