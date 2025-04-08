@@ -1162,18 +1162,21 @@ casualties
 
 ہلاکتیں
 
+casualty
+
+ حادثه , جانی نقصان ,حادثاتی طور پر زخمی ہونا یا مرنا
+
 deepest , deep = گہرا
 
 سب سے گہرا
 
-ditche
+ditch
 
-ہلاکتیں
+کھائی , خَنْدَق , گڑھا 
 
 coerce
 
 زبردستی
-
 
 incredible
 
@@ -1215,7 +1218,6 @@ exacerbate
 dispute = disputes means جهگڑا کرنا / تنازعات
 
 جهگڑا کرنا
-
 
 Tortilla
 
@@ -1710,22 +1712,12 @@ rush
 
 جلدی
 
-
-
-there is nothing like that
-
-ایسی بات نی ہے , 
-
-there is something like that
-
-ایسی بات ہے
-
-There is no such thing
+There is no such thing , there is nothing like that
 
 ایسی بات نی ہے
 
 
-there is such a thing
+there is such a thing , there is something like that
 
 ایسی بات ہے
 
