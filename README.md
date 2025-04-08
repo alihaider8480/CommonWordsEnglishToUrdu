@@ -1151,7 +1151,7 @@ intercept, ed (roka gaya)
 
 struck
 
-مارا
+ پیٹنا , مارا
 
 retaliatory (matlab badla lana)
 
