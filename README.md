@@ -1759,3 +1759,20 @@ patriot
 penalize
 
 کسی پر سزا عائد karna , سزا دینا , جرمانه کرنا
+
+i had to go there
+
+مجھ واہا جانا پرہا
+
+
+had to + ver 1rst form
+
+matlab agar majbori ma koi kam karna parha 
+
+
+
+
+
+
+
+
