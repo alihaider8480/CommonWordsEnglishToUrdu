@@ -1761,7 +1761,9 @@ had to + ver 1rst form
 
 matlab agar majbori ma koi kam karna parha 
 
+sooner or later
 
+کبھی نہ کبھی
 
 
 
