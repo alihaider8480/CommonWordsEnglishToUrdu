@@ -1765,8 +1765,11 @@ sooner or later
 
 کبھی نہ کبھی
 
+prioritise
 
+ترجیح دینا
 
+nightmare
 
-
+ڈراؤنا خواب
 
