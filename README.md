@@ -1773,6 +1773,10 @@ nightmare
 
 ڈراؤنا خواب
 
+more cautious 
+
+زیادہ محتاط
+
 cautious
 
 محتاط
