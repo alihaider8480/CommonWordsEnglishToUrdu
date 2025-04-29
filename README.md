@@ -1781,3 +1781,7 @@ cautious
 
 محتاط
 
+along with that
+
+اس کے ساتھ ساتھ
+
