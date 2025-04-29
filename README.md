@@ -1781,6 +1781,10 @@ cautious
 
 محتاط
 
+and along with that i was working with nadeem
+
+اور اس کے ساتھ میں ندیم کے ساتھ کام کر رہا تھا۔
+
 along with that
 
 اس کے ساتھ ساتھ
