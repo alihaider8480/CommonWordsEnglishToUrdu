@@ -8,6 +8,9 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 
 
 
+dart
+
+تیر ,نیز۵
 
 gently
 
