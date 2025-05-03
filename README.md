@@ -6,6 +6,12 @@ Colombiana movie.
 
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
+
+
+chop
+
+ٹکڑے ٹکڑے کرنا کسی تیز دھار والے اوزار سے
+
 peel
 
 چھیلنا
