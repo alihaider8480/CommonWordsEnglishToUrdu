@@ -8,6 +8,11 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 
 
 
+
+gently
+
+دھیرے سے, خاموشی سے ، آہستہ سے 
+
 chop
 
 ٹکڑے ٹکڑے کرنا کسی تیز دھار والے اوزار سے
