@@ -7,6 +7,13 @@ Colombiana movie.
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
 
+im pleading with you
+
+میں آپ سے التجا کر رہا ہوں۔
+
+plead
+
+التجا کرنا, رحم کے لئے التجا کرنا,
 
 dart
 
