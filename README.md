@@ -874,11 +874,13 @@ impassioned
 
 جذباتی طور پر
 
+no wonder why
+
+کوئی تعجب نہیں کیوں
 
 Wonder
 
 تعجب
-
 
 Sees
 
