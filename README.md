@@ -6,7 +6,13 @@ Colombiana movie.
 
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
+im a wreck
 
+میں ایک تباہی ہوں
+
+wreck
+ 	
+بربادی , تباہی
 
 you have been in there for over an hour
 
