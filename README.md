@@ -7,6 +7,15 @@ Colombiana movie.
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
 
+
+you have been in there for over an hour
+
+آپ کو وہاں ایک گھنٹے سے زیادہ وقت ہو گیا ہے۔
+
+for over
+
+زیادہ کے لیے
+
 im pleading with you
 
 میں آپ سے التجا کر رہا ہوں۔
