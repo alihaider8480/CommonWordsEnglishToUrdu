@@ -9,6 +9,11 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 
 ![image](https://github.com/user-attachments/assets/48a23af1-f868-443b-9dfd-cfe257c885f1)
 
+present indefinate
+
+![image](https://github.com/user-attachments/assets/5a3d5ce4-71b3-46cb-89d4-f74a4ce7228f)
+
+
 
 ![image](https://github.com/user-attachments/assets/ea26fbbd-51a6-4ab1-abe2-bbb30e9724e9)
 
