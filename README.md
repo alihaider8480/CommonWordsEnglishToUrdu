@@ -7,6 +7,13 @@ this is england
 
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
+![image](https://github.com/user-attachments/assets/48a23af1-f868-443b-9dfd-cfe257c885f1)
+
+
+![image](https://github.com/user-attachments/assets/ea26fbbd-51a6-4ab1-abe2-bbb30e9724e9)
+
+
+
 
 Be , Been
 
