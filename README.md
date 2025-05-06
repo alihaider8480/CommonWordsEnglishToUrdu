@@ -7,6 +7,13 @@ this is england
 
 Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga 
 
+
+Be , Been
+
+**BEEN** = agar ma kisi ki bat karon ka past ma tha or ab khatam hogaya hai or
+ya past ma gae tha or ab achuka ho waha been aega
+
+BE= sirf current ma hai matalb current status past ka zikar na ho
 controversy
 
 تنازعہ
