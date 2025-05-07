@@ -49,6 +49,9 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 ![image](https://github.com/user-attachments/assets/be1a4e6d-d449-4b76-be66-38fa70cb0756)
 
 
+====================
+
+
 
 
 Be , Been
@@ -57,6 +60,12 @@ Be , Been
 ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
+
+
+down, below, beneath, underneath
+
+نیچے
+
 controversy
 
 تنازعہ
