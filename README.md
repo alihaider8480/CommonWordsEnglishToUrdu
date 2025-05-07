@@ -12,9 +12,11 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 **present indefinate**
 
 ![image](https://github.com/user-attachments/assets/5a3d5ce4-71b3-46cb-89d4-f74a4ce7228f)
+![image](https://github.com/user-attachments/assets/ea26fbbd-51a6-4ab1-abe2-bbb30e9724e9)
 
 
 **past indefinate**
+
 ![image](https://github.com/user-attachments/assets/39582869-9bb5-42a3-8f89-97f3a13470f3)
 
 
@@ -27,7 +29,7 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 
 
 
-![image](https://github.com/user-attachments/assets/ea26fbbd-51a6-4ab1-abe2-bbb30e9724e9)
+
 
 **Present Perfect Continuous**
 
