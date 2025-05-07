@@ -18,6 +18,22 @@ present indefinate
 ![image](https://github.com/user-attachments/assets/ea26fbbd-51a6-4ab1-abe2-bbb30e9724e9)
 
 
+![image](https://github.com/user-attachments/assets/ebadde8d-628d-4432-a914-479581e6dfa2)
+
+**Present Perfect Continuous**
+
+![image](https://github.com/user-attachments/assets/c29203ed-802e-4a06-8483-508326921b80)
+
+**Future Perfect Continuous**
+
+![image](https://github.com/user-attachments/assets/12a8ba99-1da0-4646-89ac-d659c2995e62)
+
+**Past Perfect Continuous**
+
+
+![image](https://github.com/user-attachments/assets/be1a4e6d-d449-4b76-be66-38fa70cb0756)
+
+**Present Perfect**
 
 
 Be , Been
