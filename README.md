@@ -14,6 +14,11 @@ Agar Kisi bhi verb Ka aga ly lag Jae to us ma سے. Ya add ho Jae ga
 ![image](https://github.com/user-attachments/assets/5a3d5ce4-71b3-46cb-89d4-f74a4ce7228f)
 
 
+**past indefinate**
+![image](https://github.com/user-attachments/assets/39582869-9bb5-42a3-8f89-97f3a13470f3)
+
+
+
 **Future indefinate**
 
 ![image](https://github.com/user-attachments/assets/f7551150-3142-45b4-bcbb-1a31a0e6b18b)
