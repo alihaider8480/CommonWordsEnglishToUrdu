@@ -697,6 +697,14 @@ Blown
 
 اڑا دیا
 
+take your dirty napkin away from my kitchen.
+
+اپنا گندا رومال میرے کچن سے دور لے جاؤ۔
+
+napkin
+
+رومال
+
 Away
 
 دور
