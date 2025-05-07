@@ -62,6 +62,10 @@ ya past ma gae tha or ab achuka ho waha been aega
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
 
+flatmate
+
+فلیٹ میٹ
+
 down, below, beneath, underneath
 
 نیچے
