@@ -61,9 +61,17 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
+day after tommorrow
+
+پرسوں
+
 perheps
 
 شاید
+
+I was curious to know what would happen next.
+
+میں یہ جاننے کا مشتاق تھا کہ آگے کیا ہونے ولا ہے۔
 
 curious
 
