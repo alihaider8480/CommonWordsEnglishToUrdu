@@ -61,7 +61,15 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
-dectectives
+perheps
+
+شاید
+
+curious
+
+ جاننے کا خواہش مند , شوقین
+
+dectective
 
 جاسوس,  کهوجی
 
