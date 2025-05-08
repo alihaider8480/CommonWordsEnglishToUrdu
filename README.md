@@ -61,6 +61,10 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
+dectectives
+
+جاسوس,  کهوجی
+
 certainly
 
 یقینی طور پر , شرطیه , بے شک, سچ مُچ
