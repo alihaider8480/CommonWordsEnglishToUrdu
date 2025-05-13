@@ -61,6 +61,26 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
+jealousy
+
+حسد
+
+Joe is passionate about basebal.
+
+جوْبیس بال کا زبردست شوقین ہے
+
+passionate
+
+پرجوش , جوشِیلا , شوقین
+
+veil of ignorance
+
+جہالت کا پردہ
+
+veil
+
+نقاب , گھونگھٹ , پردہ , مقنع , چادر
+
 day after tommorrow
 
 پرسوں
