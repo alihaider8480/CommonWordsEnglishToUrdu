@@ -61,25 +61,12 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
-jealousy / jealous = غیرت مند , جَلَن
 
-حسد
 
-Joe is passionate about basebal.
 
-جوْبیس بال کا زبردست شوقین ہے
+homesick
 
-passionate
-
-پرجوش , جوشِیلا , شوقین
-
-veil of ignorance
-
-جہالت کا پردہ
-
-veil
-
-نقاب , گھونگھٹ , پردہ , مقنع , چادر
+گھر جانے کے لئے بے چین
 
 day after tommorrow
 
@@ -1975,6 +1962,10 @@ along with that
 in touch
 
 رابطے میں
+
+how long since
+
+کتنے عرصے سے
 
 since
 
