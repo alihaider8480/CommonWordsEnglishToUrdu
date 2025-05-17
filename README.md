@@ -61,6 +61,12 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
+
+
+call off , called off kardia raad
+
+مَنسُوخ کَرنا, رد کرنا
+
 abroad
 
 بیرون ملک , پردیس
