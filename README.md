@@ -61,6 +61,14 @@ ya past ma gae tha or ab achuka ho waha been aega
 
 BE= sirf current ma hai matalb current status past ka zikar na ho
 
+abroad
+
+بیرون ملک , پردیس
+
+barrier barried = روک دیا گیا, خارج کرنا
+
+رکاوٹ
+
 bastard
 
 کمینے
