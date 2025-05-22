@@ -111,7 +111,7 @@ curious
 
  جاننے کا خواہش مند , شوقین
 
-dectective
+detective
 
 جاسوس,  کهوجی
 
