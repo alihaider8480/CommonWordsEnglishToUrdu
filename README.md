@@ -1599,6 +1599,23 @@ accept
 
 قبول کرna , قبول
 
+im a wreck
+
+میں ایک تباہی ہوں
+
+
+Ali ruined Kazim's breakfast.
+
+علی نے کاظم کا ناشتہ برباد کر دیا۔
+
+ruin
+
+بربادی , برباد
+
+wreck
+ 	
+بربادی , تباہی
+
 Downfall
 
 بربادی , تباہی
@@ -1716,14 +1733,6 @@ hopeless
 Terrified
 
 خوفزدہ
-
-Ali ruined Kazim's breakfast.
-
-علی نے کاظم کا ناشتہ برباد کر دیا۔
-
-ruin
-
-بربادی , برباد
 
 
 witch
@@ -1954,13 +1963,6 @@ controversy
 
 تنازعہ
 
-im a wreck
-
-میں ایک تباہی ہوں
-
-wreck
- 	
-بربادی , تباہی
 
 you have been in there for over an hour
 
