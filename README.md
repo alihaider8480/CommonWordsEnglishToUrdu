@@ -1999,3 +1999,10 @@ peel
 nothing else
 
 اور کچھ نہیں
+
+starve
+
+بھوکا
+
+
+
