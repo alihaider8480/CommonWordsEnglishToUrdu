@@ -63,133 +63,6 @@ BE= sirf current ma hai matalb current status past ka zikar na ho
 
 
 
-call off , called off kardia raad
-
-مَنسُوخ کَرنا, رد کرنا
-
-abroad
-
-بیرون ملک , پردیس
-
-barrier barried = روک دیا گیا, خارج کرنا
-
-رکاوٹ
-
-bastard
-
-کمینے
-
-tough
-
-سخت
-
-if that's the case so i will go with you
-
-اگر ایسا ہے تو میں آپ کے ساتھ جاؤں گا۔
-
-if that's the case
-
-اگر ایسا ہے , اگر یہ معاملہ ہے 
-
-homesick
-
-گھر جانے کے لئے بے چین
-
-day after tommorrow
-
-پرسوں
-
-perheps
-
-شاید
-
-I was curious to know what would happen next.
-
-میں یہ جاننے کا مشتاق تھا کہ آگے کیا ہونے ولا ہے۔
-
-curious
-
- جاننے کا خواہش مند , شوقین
-
-detective
-
-جاسوس,  کهوجی
-
-certainly
-
-یقینی طور پر , شرطیه , بے شک, سچ مُچ
-
-occasionally
-
-کبھی کبھار
-
-sometime
-
-کبھی کبھی
-
-an hour a day
-
-دن میں ایک گھنٹہ
-
-hour ka sath an lagta hai = an hour
-
-entire
-
-پورا, سارا
-
-flatmate
-
-فلیٹ میٹ
-
-down, below, beneath, underneath
-
-نیچے
-
-controversy
-
-تنازعہ
-
-im a wreck
-
-میں ایک تباہی ہوں
-
-wreck
- 	
-بربادی , تباہی
-
-you have been in there for over an hour
-
-آپ کو وہاں ایک گھنٹے سے زیادہ وقت ہو گیا ہے۔
-
-for over
-
-زیادہ کے لیے
-
-im pleading with you
-
-میں آپ سے التجا کر رہا ہوں۔
-
-plead
-
-التجا کرنا, رحم کے لئے التجا کرنا,
-
-dart
-
-تیر ,نیز۵
-
-gently
-
-دھیرے سے, خاموشی سے ، آہستہ سے 
-
-chop
-
-ٹکڑے ٹکڑے کرنا کسی تیز دھار والے اوزار سے
-
-peel
-
-چھیلنا
-
-nothing else
 
 اور کچھ نہیں
 
@@ -1998,5 +1871,132 @@ since
 
 ایک خاص وقت سے
 
+call off , called off kardia raad
+
+مَنسُوخ کَرنا, رد کرنا
+
+abroad
+
+بیرون ملک , پردیس
+
+barrier barried = روک دیا گیا, خارج کرنا
+
+رکاوٹ
+
+bastard
+
+کمینے
+
+tough
+
+سخت
+
+if that's the case so i will go with you
+
+اگر ایسا ہے تو میں آپ کے ساتھ جاؤں گا۔
+
+if that's the case
+
+اگر ایسا ہے , اگر یہ معاملہ ہے 
+
+homesick
+
+گھر جانے کے لئے بے چین
+
+day after tommorrow
+
+پرسوں
+
+perheps
+
+شاید
+
+I was curious to know what would happen next.
+
+میں یہ جاننے کا مشتاق تھا کہ آگے کیا ہونے ولا ہے۔
+
+curious
+
+ جاننے کا خواہش مند , شوقین
+
+detective
+
+جاسوس,  کهوجی
+
+certainly
+
+یقینی طور پر , شرطیه , بے شک, سچ مُچ
+
+occasionally
+
+کبھی کبھار
+
+sometime
+
+کبھی کبھی
+
+an hour a day
+
+دن میں ایک گھنٹہ
+
+hour ka sath an lagta hai = an hour
+
+entire
+
+پورا, سارا
+
+flatmate
+
+فلیٹ میٹ
+
+down, below, beneath, underneath
+
+نیچے
+
+controversy
+
+تنازعہ
+
+im a wreck
+
+میں ایک تباہی ہوں
+
+wreck
+ 	
+بربادی , تباہی
+
+you have been in there for over an hour
+
+آپ کو وہاں ایک گھنٹے سے زیادہ وقت ہو گیا ہے۔
+
+for over
+
+زیادہ کے لیے
+
+im pleading with you
+
+میں آپ سے التجا کر رہا ہوں۔
+
+plead
+
+التجا کرنا, رحم کے لئے التجا کرنا,
+
+dart
+
+تیر ,نیز۵
+
+gently
+
+دھیرے سے, خاموشی سے ، آہستہ سے 
+
+chop
+
+ٹکڑے ٹکڑے کرنا کسی تیز دھار والے اوزار سے
+
+peel
+
+چھیلنا
+
+nothing else
 
 
