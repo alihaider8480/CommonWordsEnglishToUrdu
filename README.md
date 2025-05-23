@@ -1807,7 +1807,7 @@ being + ver 2nd form
 مطلب جو کا م ابھی کیا جا رہا ہے اسکے لئے استعمال ہوتا ہے
 
 
-house chorses
+houseHold chores
 
 گھر کے کام
 
