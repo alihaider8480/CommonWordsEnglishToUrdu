@@ -63,9 +63,6 @@ BE= sirf current ma hai matalb current status past ka zikar na ho
 
 
 
-
-اور کچھ نہیں
-
 Ly = سے 
 
 Widow 
@@ -1999,4 +1996,4 @@ peel
 
 nothing else
 
-
+اور کچھ نہیں
