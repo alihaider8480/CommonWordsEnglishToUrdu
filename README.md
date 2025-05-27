@@ -714,10 +714,6 @@ Comics
 
 مزاحیہ
 
-Detective
-
-جاسوس
-
 Contaminate
 
 خراب کرن,آلودہ کرن,ناپاک کرنا
@@ -1924,6 +1920,10 @@ I was curious to know what would happen next.
 curious
 
  جاننے کا خواہش مند , شوقین
+
+spy / spying = جاسوس, مخبری
+
+جاسوس
 
 detective
 
