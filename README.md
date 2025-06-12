@@ -2019,3 +2019,15 @@ pretent
 revoke
 
 واپس لینا , منسوخ کرنا
+
+ashmed
+
+شرمندہ
+
+shame
+
+شرم
+
+shamefull
+
+شرمناک
