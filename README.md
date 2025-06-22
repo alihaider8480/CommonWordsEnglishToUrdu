@@ -2031,3 +2031,7 @@ shame
 shamefull
 
 شرمناک
+
+reveal
+
+ظاہر کرنا
