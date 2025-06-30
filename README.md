@@ -2035,3 +2035,11 @@ shamefull
 reveal
 
 ظاہر کرنا
+
+persistent
+
+مسلسل
+
+spike
+
+کیل
