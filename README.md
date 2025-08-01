@@ -2047,3 +2047,11 @@ spike
 poach
 
 شکار , ناجائز طور پر شکار کرنا
+
+convolute
+
+گھو م فرا کے بتانا , مشکل کرکہ بتانا , complex and confusing
+
+
+
+
