@@ -2064,5 +2064,22 @@ lean
 
 جهکانا , ک طرف جھکانا, taike lagana
 
+conspiracy
+
+سازش
+
+immodest
+
+بے حیائی
+
+reckless
+
+لاپرواہ
+
+compulsion
+
+مجبوری
+
+
 
 
