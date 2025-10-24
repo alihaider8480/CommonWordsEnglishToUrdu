@@ -2085,3 +2085,11 @@ would have , could have , may have , should have
 
 ya sab past ka lia use honga agar inka aga have ajae tu or verbki 3rd form
 
+
+
+fostering, rearing, breeding
+
+پرورش , پال پوس 
+
+
+
