@@ -1604,15 +1604,7 @@ Ali ruined Kazim's breakfast.
 
 علی نے کاظم کا ناشتہ برباد کر دیا۔
 
-ruin
-
-بربادی , برباد
-
-wreck
- 	
-بربادی , تباہی
-
-Downfall
+ruin, wreck, Downfall
 
 بربادی , تباہی
 
