@@ -1212,7 +1212,7 @@ intercept, ed (roka gaya)
 
 روکنا
 
-struck
+strike ( struck = 2nd form)
 
  پیٹنا , مارا
 
