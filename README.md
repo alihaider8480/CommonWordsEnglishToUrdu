@@ -1216,9 +1216,9 @@ struck
 
  پیٹنا , مارا
 
-retaliatory (matlab badla lana)
+retaliatory , retaliation , retaliate
 
-انتقامی
+ بدلہ , بدلہ لینا , انتقام لینا
 
 
 casualties
