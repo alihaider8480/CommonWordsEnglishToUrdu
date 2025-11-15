@@ -1210,7 +1210,11 @@ hassle
 
 intercept, ed (roka gaya)
 
-روکنا
+راہ میں رکاوٹ
+
+prevent
+
+ روکنا, روک تھام
 
 strike ( struck = 2nd form)
 
@@ -1321,10 +1325,6 @@ hike
 disease
 
 بیماری
-
-prevent
-
-روکنا
 
 victim
 
