@@ -2025,7 +2025,7 @@ shamefull
 
 reveal
 
-ظاہر کرنا
+ (means to make people aware of it).فاش کرنا , دکھانا , ظاہر کرنا
 
 persistent
 
