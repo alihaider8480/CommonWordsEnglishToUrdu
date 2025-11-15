@@ -1237,9 +1237,9 @@ ditch
 
 کھائی , خَنْدَق , گڑھا 
 
-coerce
+coerce , pressurize
 
-زبردستی
+مجبور کرنا ,دباؤ ,زبردستی
 
 incredible
 
