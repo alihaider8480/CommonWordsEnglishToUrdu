@@ -1674,6 +1674,8 @@ as soon as be comes then we will go
 
 as soon as
 
+جیسے ہی
+
 as long as
 
 جب تک
