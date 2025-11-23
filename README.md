@@ -1104,10 +1104,6 @@ trauma
 
 صدمہ
 
-prevent
-
-روکنا
-
 hesitation
 
 ہچکچاہٹ
@@ -1560,6 +1556,10 @@ present
 appear
 
 ظاہر ہونا , نموندار هونا
+
+reveal
+
+ (means to make people aware of it).فاش کرنا , دکھانا , ظاہر کرنا
 
 alive
 
@@ -2024,10 +2024,6 @@ shame
 shamefull
 
 شرمناک
-
-reveal
-
- (means to make people aware of it).فاش کرنا , دکھانا , ظاہر کرنا
 
 persistent
 
