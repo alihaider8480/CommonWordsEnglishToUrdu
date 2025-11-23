@@ -1458,20 +1458,6 @@ run out, finished
 
 ختم ہوگیا 
 
-as far as i know
-
-جہاں تک میں جانتا ہوں۔ 
-
-as far as
-
-جہاں تک
-
-as soon as be comes then we will go
-
-جیسے ہی وہ آئے گا ہم جائیں گے۔
-
-as soon as
-
 جیسے ہی
 
 take off
@@ -1673,6 +1659,20 @@ via
 stubborn
 
 ضدی , ضد
+
+as far as i know
+
+جہاں تک میں جانتا ہوں۔ 
+
+as far as
+
+جہاں تک
+
+as soon as be comes then we will go
+
+جیسے ہی وہ آئے گا ہم جائیں گے۔
+
+as soon as
 
 as long as
 
