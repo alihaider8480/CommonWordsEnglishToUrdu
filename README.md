@@ -747,9 +747,21 @@ Wealthiest
 
 امیر ترین,امیر
 
-Intend, ed: kia
+defraud
+
+.دھوکا دے کر نقصان پہنچانا
+
+With evil intent
+
+ بری نیت سے
+
+intention
 
 ارادہ
+
+Intend, ed: kia
+
+مقصد , ارادہ
 
 Withdrawn
 
@@ -1039,10 +1051,6 @@ accordance
 
 کے مطابق
 
-intention
-
-جانے کا ارادہ ہے
-
 stipulated 
 
 مقرر
@@ -1154,10 +1162,6 @@ traitor
 
 
 
-
-intention
-
-ارادہ
 
 conceal
 
@@ -1918,7 +1922,7 @@ detective
 
 جاسوس,  کهوجی
 
-certainly
+certainly , literaly
 
 یقینی طور پر , شرطیه , بے شک, سچ مُچ
 
