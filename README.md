@@ -1274,10 +1274,6 @@ exacerbate
 
 بڑھانا
 
-dispute = disputes means جهگڑا کرنا / تنازعات
-
-جهگڑا کرنا
-
 Tortilla
 
 روٹی
@@ -1951,6 +1947,10 @@ flatmate
 down, below, beneath, underneath
 
 نیچے
+
+dispute = disputes means جهگڑا کرنا / تنازعات
+
+جهگڑا کرنا
 
 controversy
 
