@@ -2086,6 +2086,10 @@ would have , could have , may have , should have
 ya sab past ka lia use honga agar inka aga have ajae tu or verbki 3rd form
 
 
+The teacher’s praise fostered her confidence
+
+استاد کی تعریف نے اُس کے اعتماد کو فروغ دیا
+
 foster , Raise
 
 بڑا کرنا , پالنا ,  سہارا دینا 
@@ -2102,4 +2106,6 @@ persuade
 
  راضی کرنا , راغب کرنا ، مائل کرنا ، اکسانا ، ترغیب دلانا ، آمادہ کرنا
 
+Neglect
 
+نظرانداز کرنا
