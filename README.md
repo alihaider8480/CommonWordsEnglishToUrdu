@@ -2029,9 +2029,16 @@ shamefull
 
 شرمناک
 
-persistent
+The parents of persistent truants can be put in jail
 
-مسلسل
+persisten
+
+بار بار ہونے والی  , مسلسل
+
+truant
+
+کام چور، سُست، کاہل یا بھاگوڑا, بھاگوڑا (جیسے اسکول سے بھاگنے والا) 
+
 
 spike
 
