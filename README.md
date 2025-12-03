@@ -2109,3 +2109,7 @@ persuade
 Neglect
 
 نظرانداز کرنا
+
+apart from that
+
+اس کے علاوہ
