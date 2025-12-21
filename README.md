@@ -2029,9 +2029,11 @@ shamefull
 
 شرمناک
 
-The parents of persistent truants can be put in jail
+The parents of persistent truants can be put in jail.
 
-persisten
+مسلسل غلط کام کرنے والوں کے والدین کو جیل میں ڈالا جا سکتا ہے
+
+persistent
 
 بار بار ہونے والی  , مسلسل
 
