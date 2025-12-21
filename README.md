@@ -2115,3 +2115,11 @@ Neglect
 apart from that
 
 اس کے علاوہ
+
+figure it out
+
+اس کا پتہ لگائیں
+
+
+
+
