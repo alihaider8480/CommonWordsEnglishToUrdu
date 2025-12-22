@@ -2132,4 +2132,30 @@ hilarious
 
 زنده دل   ؛خوش دل   ؛خوشی کا   ؛چوہل باز   ؛زندہ دل , مزاحیہ
 
+Steps are being taken for the remediation of contaminated land.
 
+آلودہ زمین کی اصلاح کے لیے اقدامات کیے جا رہے ہیں
+
+
+Remedial teaching is necessary for students
+
+
+طلباء کے لیے اصلاحی تدریس ضروری ہے
+
+Correction/Remediation of this mistake is necessary
+
+
+اس غلطی کی اصلاح ضروری ہے
+
+
+remediate
+
+کسی غلطی نقص یا برائی کو درست کرنا , ٹھیک کرنا , اصلاح کرنا
+
+Trees ingest carbon dioxide
+
+درخت کاربن ڈائی آکسائیڈ لیتے ہیں
+
+ingest
+
+جسم میں داخل کرنا، خاص طور پر خوراک، دوا، یا کوئی اور چیز منہ کے ذریعے پیٹ میں لے جانا، جسے اردو میں خوراک کے طور پر جسم میں داخل کرنا، پیٹ میں ڈالنا، معدے میں داخل کرنا، یا اُتارنا
