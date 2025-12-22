@@ -2119,7 +2119,9 @@ apart from that
 figure it out
 
 اس کا پتہ لگائیں
+snoop , snooping
 
+چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
 
 
 
