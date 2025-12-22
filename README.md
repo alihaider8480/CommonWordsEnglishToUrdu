@@ -2119,6 +2119,11 @@ apart from that
 figure it out
 
 اس کا پتہ لگائیں
+
+stop snooping around man
+
+آدمی کے گرد گھومنا بند کرو
+
 snoop , snooping
 
 چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
