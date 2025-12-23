@@ -2100,6 +2100,10 @@ fostering, rearing, breeding
 
 پرورش , پال پوس 
 
+praise
+
+تعریف
+
 i tried to persuade her to stay
 
 میں نے اسے رکنے پر  راضی کرنے کی کوشش کی
