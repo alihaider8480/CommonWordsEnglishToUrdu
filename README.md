@@ -555,10 +555,6 @@ Handy
 
 آسان
 
-Victim
-
-مظلوم
-
 Poked,Poke you ,poke
 
 چبهونا,اپ کو چھیڑا,ٹھونس دیا
@@ -1322,9 +1318,29 @@ disease
 
 بیماری
 
+He was a victim of a robbery.
+
+وہ ڈکیتی کا شکار ہوا۔
+
+The new drug might help save the lives of cancer victims.
+
+نئی دوا کینسر کے شکار لوگوں کی جان بچانے میں مددگار ثابت ہو سکتی ہے۔
+
+We appear to have been the victims of a cruel joke
+
+ایسا لگتا ہے کہ ہم ایک تکلیف دہ مذاق کا نشانہ بن گئے ہیں۔
+
+The victim's family spoke about their emotional pain.
+
+متاثرہ شخص کے خاندان نے اپنے جذباتی دکھ کے بارے میں بات کی۔
+
+The children are innocent victims of the war.
+
+بچے جنگ کے معصوم شکار ہیں۔ 
+
 victim
 
-شکار
+ مظلوم , شکار bana ho
 
 rip , ripped/ phardia
 
