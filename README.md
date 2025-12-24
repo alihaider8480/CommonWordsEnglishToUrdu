@@ -1454,8 +1454,6 @@ run out, finished
 
 ختم ہوگیا 
 
-جیسے ہی
-
 take off
 
 اتار دو 
