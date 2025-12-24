@@ -1270,9 +1270,17 @@ fall short
 
 کم پڑنا
 
+A lack of funding will exacerbate the schools' problems
+
+فنڈز کی کمی اسکولوں کے مسائل کو مزید بڑھا دے گی
+
+Financial stress can exacerbate mental health issues
+
+مالی دباؤ ذہنی صحت کے مسائل کو مزید بدتر کر سکتا ہے
+
 exacerbate
 
-بڑھانا
+ بگاڑنا , شدید تر کر دینا , بدتر کرنا (حالت کو مزید خراب کرنا)
 
 Tortilla
 
