@@ -1441,10 +1441,7 @@ way too much
 you give me way too much information to me
 
 آپ مجھے بہت زیادہ معلومات دیتے ہیں۔ 
-
-besides that
-
-اس کے علاوہ 
+ 
 
 i'm asking each question one a time
 
@@ -2114,7 +2111,7 @@ Neglect
 
 نظرانداز کرنا
 
-apart from that
+apart from that , besides that
 
 اس کے علاوہ
 
