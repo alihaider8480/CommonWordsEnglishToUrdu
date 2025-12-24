@@ -1370,6 +1370,14 @@ bakers
 
 حمایتی
 
+army conquered the city
+
+فوج نے شہر فتح کر لیا
+
+he conquered his fear
+
+اس نے اپنے خوف پر قابو پا لیا
+
 conquer
 
 فتح
