@@ -1380,7 +1380,7 @@ fear
 
 fearful
 
-خوفناک
+   ہیبت ناک , خوفناک
 
 superior
 
