@@ -1368,7 +1368,7 @@ she will find out the truth one way or another
 
 one way or another
 
-کسی نہ کسی طرح
+ کسی نہ کسی طرح , کسی نہ کسی صورت میں
 
 somehow
 
