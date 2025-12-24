@@ -1380,7 +1380,7 @@ he conquered his fear
 
 conquer
 
-فتح
+فتح, قابو پانا , اپنی کمزوریوں یا خوف کو شکست دینا
 
 fear
 
