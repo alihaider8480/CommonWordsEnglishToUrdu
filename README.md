@@ -1362,6 +1362,14 @@ assassination
 
 قتل
 
+she will find out the truth one way or another
+
+وہ سچائی کا پتہ لگا ہی لے گی، کسی نہ کسی صورت میں
+
+one way or another
+
+کسی نہ کسی طرح
+
 somehow
 
 کسی طرح
