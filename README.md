@@ -1141,12 +1141,6 @@ possession
 
 ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
 
-like : Revamped website , Revamped engine, Revamped policy
-
-revamp , revamping
-  
-بہتر بنایا گیا" یا "نئے سرے سے ترتیب دیا گیا
-
 obstacle
 
 رکاوٹ
@@ -2169,9 +2163,19 @@ snoop , snooping
 
 چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
 
+The movie was so hilarious that I couldn’t stop laughing
+
+وہ فلم اتنی مزاحیہ تھی کہ میں اپنی ہنسی نہ روک سکا 
+
 hilarious
 
-زنده دل   ؛خوش دل   ؛خوشی کا   ؛چوہل باز   ؛زندہ دل , مزاحیہ
+انتہائی مزاحیہ , قہقہہ آور (ایسا جو قہقہہ نکلوا دے)
+
+like : Revamped website , Revamped engine, Revamped policy
+
+revamp , revamping
+  
+بہتر بنایا گیا" یا "نئے سرے سے ترتیب دیا گیا
 
 Steps are being taken for the remediation of contaminated land.
 
