@@ -1141,9 +1141,11 @@ possession
 
 ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
 
-revamp , revamping
+like : Revamped website , Revamped engine, Revamped policy
 
-اصلاح  , اصلاح کرنا
+revamp , revamping
+  
+بہتر بنایا گیا" یا "نئے سرے سے ترتیب دیا گیا
 
 obstacle
 
