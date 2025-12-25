@@ -2209,5 +2209,14 @@ admission, admittance, entrance
 
 داخلہ
 
+I gotta go now.
 
+مجھے اب جانا ہے۔ / مجھے اب نکلنا پڑے گا
 
+I gotta tell you something.
+
+مجھے تمہیں کچھ بتانا ہے
+
+gotta = got to = have got to
+
+کرنا ہے / کرنا پڑے گا
