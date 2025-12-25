@@ -2220,3 +2220,11 @@ I gotta tell you something.
 gotta = got to = have got to
 
 کرنا ہے / کرنا پڑے گا
+
+He is known for his good deeds. 
+
+وہ اپنے نیک اعمال کی وجہ سے جانا جاتا ہے۔
+
+deed
+
+اعمال, عمل
