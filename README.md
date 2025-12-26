@@ -2228,3 +2228,22 @@ He is known for his good deeds.
 deed
 
 اعمال, عمل
+
+Don't worry, I'm just a newbie here.
+
+پریشان نہ ہوں، میں یہاں بالکل نیا/نوآموز ہوں
+
+This class is specifically designed for newbies.
+
+یہ کلاس خاص طور پر ان لوگوں کے لیے بنائی گئی ہے جنہوں نے ابھی سیکھنا شروع کیا ہے
+
+newbie
+
+ایسا شخص جس نے حال ہی میں کوئی کام سیکھنا شروع کیا ہو
+
+
+
+
+
+
+
