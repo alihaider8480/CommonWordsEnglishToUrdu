@@ -2101,6 +2101,10 @@ greedy
 
 لالچی
 
+He leaned his bike against the wall.
+
+اس نے اپنی سائیکل دیوار کے ساتھ ٹکا دی
+
 lean
 
 جهکانا , ک طرف جھکانا, taike lagana
