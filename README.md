@@ -2324,7 +2324,17 @@ outta = out of
 
 کسی جگہ یا حد سے باہر نکلنے کے لیے , جب کوئی چیز ختم ہو رہی ہو , کسی مخصوص جگہ یا تعداد میں سے
 
+needless to say this is a robbery right ?
 
+یہ کہنے کی ضرورت نہیں کہ یہ چوری ہے؟
+
+It was a needless mistake. 
+
+یہ ایک غیر ضروری غلطی تھی
+
+needless
+
+فضول , غیر ضروری
 
 
 
