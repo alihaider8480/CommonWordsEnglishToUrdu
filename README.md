@@ -1905,9 +1905,6 @@ abroad
 
 بیرون ملک , پردیس
 
-barrier barried = روک دیا گیا, خارج کرنا
-
-رکاوٹ
 
 bastard
 
@@ -2336,6 +2333,17 @@ needless
 
 فضول , غیر ضروری
 
+Bad weather thwarted our holiday plans.
+
+ خراب موسم ہمارے چھٹیوں کے پروگرام کی راہ میں رکاوٹ بن گیا
+
+thwart (thwarting = ho rahi hai رکاوٹ
+
+ناکام بنانا , رکاوٹ ڈالنا۔ 
+
+barrier barried = روک دیا گیا, خارج کرنا
+
+رکاوٹ، آڑ، حد، دیوار
 
 
 
