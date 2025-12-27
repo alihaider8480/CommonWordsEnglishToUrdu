@@ -1717,7 +1717,7 @@ concerned
 
 fiance
 
- (mangatar)منگیتر
+ منگیتر
 
 shy
 
