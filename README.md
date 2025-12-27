@@ -2304,7 +2304,9 @@ Gone off: فعلِ تمام (Past Participle/Perfect)
 
 ہو چکا ہے۔
 
+the country is a ticking time bomb ready to go off
 
+ملک ایک ٹک ٹک ٹائیم بم ہے جو اڑانے کے لیے تیار ہے۔
 
 
 
