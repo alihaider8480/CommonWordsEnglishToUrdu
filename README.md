@@ -2280,6 +2280,29 @@ here and there
 
 یہاں اور وہاں
 
+I think this meat has gone off.
+
+میرا خیال ہے کہ یہ گوشت خراب ہو چکا ہے۔
+
+The electricity went off an hour ago.
+
+ایک گھنٹہ پہلے بجلی چلی گئی یا بند ہو گئی۔
+
+Milk will go off if you don't put it in the fridge.
+
+(اگر تم نے دودھ فریج میں نہ رکھا تو یہ خراب ہو جائے گا
+
+Go off: حال (Present) 
+
+عام طور پر ہوتا ہے۔
+
+Went off: ماضی (Past) 
+
+ہو گیا
+
+Gone off: فعلِ تمام (Past Participle/Perfect)
+
+ہو چکا ہے۔
 
 
 
