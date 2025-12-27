@@ -2060,6 +2060,14 @@ shamefull
 
 شرمناک
 
+The principal called the parents of the truant student.
+
+پرنسپل نے غیر حاضر رہنے والے طالب علم کے والدین کو بلایا۔
+
+He was punished for playing truant from his duties.
+
+اسے اپنی ذمہ داریوں سے جی چرانے پر سزا دی گئی۔
+
 The parents of persistent truants can be put in jail.
 
 مسلسل غلط کام کرنے والوں کے والدین کو جیل میں ڈالا جا سکتا ہے
