@@ -2373,7 +2373,24 @@ uncommon
 
 انوکھا , انوکھا , نایاب , کم 
 
+Please don't hold up the line."
+ (براہِ کرم قطار کو نہ روکیں۔)
 
+Hold my bag.
+
+میرا بیگ پکڑیں
+
+The bank has been held up."
+
+ (بینک کو لوٹ لیا گیا ہے۔
+
+Hold up (present ma)
+
+یہ حال (Present) کے لیے استعمال ہوتا ہے یا جب آپ کسی کو حکم دے رہے ہوں یا عام حقیقت بیان کر رہے ہوں۔
+
+Held up (Past/Past Participle)
+
+یہ ماضی (Past) کے لیے استعمال ہوتا ہے، یعنی جب کام ہو چکا ہو۔
 
 
 
