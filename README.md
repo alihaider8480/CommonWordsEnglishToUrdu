@@ -2373,8 +2373,9 @@ uncommon
 
 انوکھا , انوکھا , نایاب , کم 
 
-Please don't hold up the line."
- (براہِ کرم قطار کو نہ روکیں۔)
+Please don't hold up the line"
+
+ براہِ کرم قطار کو نہ روکیں
 
 Hold my bag.
 
