@@ -2425,6 +2425,18 @@ haze (hazing = ragging horhe ha)
 
 ragging karna 
 
+Why are you screaming?
+
+آپ کیوں چیخ رہے ہیں
+
+They were screaming for help
+
+وہ مدد کے لیے چیخ رہے تھے
+
+scream 
+
+چیخنا , چیخ مارنا , چلانا
+
 
 
 
