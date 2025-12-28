@@ -2319,6 +2319,8 @@ the country is a ticking time bomb ready to go off
 
 ملک ایک ٹک ٹک ٹائیم بم ہے جو اڑانے کے لیے تیار ہے۔
 
+gonna (going to)
+
 10 out of (outta) 1
 
  دس میں سے ایک
