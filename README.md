@@ -2421,7 +2421,9 @@ asshole
 
 بدتمیز , گھٹیا آدمی, کمینہ
 
+haze (hazing = ragging horhe ha)
 
+ragging karna 
 
 
 
