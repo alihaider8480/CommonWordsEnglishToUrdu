@@ -2393,7 +2393,17 @@ Held up (Past/Past Participle)
 
 یہ ماضی (Past) کے لیے استعمال ہوتا ہے، یعنی جب کام ہو چکا ہو۔
 
+The crops were destroyed by the hail.
 
+اولے پڑنے سے فصلیں تباہ ہو گئیں۔
+
+hail spain
+
+اسپین زندہ باد
+
+hail
+
+اولے پڑنا , ژالہ باری,  خوش آمدید کہنا / سلام کرنا(hail ka kuch  meaning  zinda bad (
 
 
 
