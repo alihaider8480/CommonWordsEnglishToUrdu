@@ -2187,13 +2187,27 @@ figure it out
 
 اس کا پتہ لگائیں
 
+She peeked through the window.
+
+اس نے کھڑکی سے جھانکا۔
+
+Don’t peek.
+
+جھانکو مت! / چپکے سے مت دیکھنا
+
+peek
+
+جاسوسی ,  چپکے سے دیکھنا 
+
 stop snooping around man
 
 آدمی کے گرد گھومنا بند کرو
 
 snoop , snooping
 
-چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
+  چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
+
+snoop vs peek ( snoop jasosi ka lia hota ha or peek chupka sa jhankna ka lia)
 
 The movie was so hilarious that I couldn’t stop laughing
 
