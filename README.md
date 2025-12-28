@@ -2403,8 +2403,23 @@ hail spain
 
 hail
 
-اولے پڑنا , ژالہ باری,  خوش آمدید کہنا / سلام کرنا(hail ka kuch  meaning  zinda bad (
+اولے پڑنا , ژالہ باری,  خوش آمدید کہنا / سلام کرنا(hail ka kuch  meaning  zinda bad
 
+Stop being an asshole and listen to me.
+
+گھٹیا پن چھوڑو اور میری بات سنو
+
+Don't be such an asshole.
+
+اتنے بدتمیز یا گھٹیا انسان نہ بنو
+
+stop being as asshole
+
+بدتمیزی کرنا بند کرو یا گھٹیا پن چھوڑو۔
+
+asshole
+
+بدتمیز , گھٹیا آدمی, کمینہ
 
 
 
