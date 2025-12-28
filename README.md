@@ -2457,5 +2457,19 @@ dozen
 
 درجن , 12
 
+No Upside
 
+کوئی فائدہ نہ ہونا۔ 
+
+What is the upside for us in this deal?
+
+اس سودے میں ہمارے لیے مثبت پہلو کیا ہے؟
+
+The upside of moving is that we will be closer to your school.
+
+(نقل مکانی کا فائدہ یہ ہے کہ ہم آپ کے سکول کے قریب ہوں گے)۔ 
+
+upside (  khta hai عام گفتگو میں کسی مشکل صورتحال میں موجود اچھائی یا فائدے کو" )
+
+فائدہ , منافع ,  بہتری کی صورت
 
