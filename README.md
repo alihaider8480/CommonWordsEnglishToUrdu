@@ -2345,9 +2345,33 @@ barrier barried = روک دیا گیا, خارج کرنا
 
 رکاوٹ، آڑ، حد، دیوار
 
+The match was delayed due to fierce winds.
+
+تیز و تند ہواؤں کی وجہ سے میچ میں تاخیر ہوئی۔
+
+The tiger is a fierce animal.
+
+چیتا ایک خونخوار جانور ہے۔ 
+
+She looked fierce in her new outfit.
+
+ترجمہ: وہ اپنے نئے لباس میں بہت پُراثر (اور نڈر) لگ رہی تھی۔ 
+
+fierce
+
+خونخوار، غضبناک، وحشی، بھیانک
+
+It is uncommon to see snow in this city.
+
+اس شہر میں برف باری دیکھنا غیر معمولی بات ہے۔
+
+It is not uncommon for people to feel sick while traveling.
+
+سفر کے دوران لوگوں کا بیمار ہو جانا کوئی عجیب بات نہیں ہے۔
 
 uncommon
 
+انوکھا , انوکھا , نایاب , کم 
 
 
 
