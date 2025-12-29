@@ -2207,7 +2207,7 @@ snoop , snooping
 
   چھپ چھپ کر دیکھنا , جاسوسی , دبک دبک کر ادھر ادھر پھرن
 
-snoop vs peek ( snoop jasosi ka lia hota ha or peek chupka sa jhankna ka lia)
+snoop vs peek ( peek jasosi ka lia hota ha or snoop chupka sa jhankna ka lia)
 
 The movie was so hilarious that I couldn’t stop laughing
 
