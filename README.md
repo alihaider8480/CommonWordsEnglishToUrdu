@@ -2573,7 +2573,17 @@ booze
 
 شراب
 
+They were invited to partake in the festivities.
 
+ انہیں جشن میں شریک ہونے کی دعوت دی گئی
+
+Would you like to partake of some refreshments?
+
+ کیا آپ کچھ تواضع/ناشتہ لینا پسند کریں گے؟
+
+partake
+
+حصہ لینا یا شرکت کرنا
 
 
 
