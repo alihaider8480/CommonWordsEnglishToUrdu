@@ -2565,8 +2565,13 @@ disgrace
 
 رسوائی، بدنامی، شرمندگی، بے عزتی
 
+They were boozing all night.
 
+وہ ساری رات شراب نوشی کر رہے تھے
 
+booze
+
+شراب
 
 
 
