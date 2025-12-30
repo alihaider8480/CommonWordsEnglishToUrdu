@@ -2536,6 +2536,21 @@ stake
 شرط، داؤ پر لگائی گئی , داؤ، خطرہ، انعام یا نقصان کا امکان 
 
 
+She made an unwise decision to quit her job without a backup plan.
+
+اس نے بغیر کسی متبادل منصوبے کے نوکری چھوڑنے کا ناسمجھ فیصلہ کیا۔
+
+
+It is unwise to ignore your health for the sake of work.
+
+کام کے لیے اپنی صحت کو نظرانداز کرنا بے وقوفی ہے۔
+
+
+
+
+unwise
+
+ناسمجھ، بے وقوفانہ، غیر دانشمندانہ 
 
 
 
