@@ -2552,7 +2552,18 @@ unwise
 
 ناسمجھ، بے وقوفانہ، غیر دانشمندانہ 
 
+His behavior was a disgrace to the entire family.
 
+اس کا رویہ پوری فیملی کے لیے رسوائی تھا۔
+
+
+Cheating in exams is a disgrace to education.
+
+امتحان میں نقل کرنا تعلیم کے لیے بدنامی ہے۔
+
+disgrace
+
+رسوائی، بدنامی، شرمندگی، بے عزتی
 
 
 
