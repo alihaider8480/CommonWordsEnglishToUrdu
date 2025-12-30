@@ -2489,8 +2489,22 @@ strive
  
 کوشش کرن , جدو جہد کرنا, مقابلہ کرنا , بے حد کوشش کرنا 
 
+Working from home made her feel increasingly isolated.
+
+گھر سے کام کرنا اسے زیادہ تنہا محسوس کرا رہا تھا 
 
 
+Isolated farms and villages can be difficult to access.
+
+الگ تھلگ کھیتوں اور دیہات تک پہنچنا مشکل ہو سکتا ہے
+
+arrest these two people keep them isolated until further notice
+
+ان دو افراد کو گرفتار کریں اور مزید ہدایت تک الگ رکھیں
+
+islolate
+
+الگ کرنا , علیحدہ کرنا , تنہا کرنا , علیحدگی اختیار کرنا 
 
 
 
