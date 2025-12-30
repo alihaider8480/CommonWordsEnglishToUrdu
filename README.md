@@ -2506,8 +2506,18 @@ islolate
 
 الگ کرنا , علیحدہ کرنا , تنہا کرنا , علیحدگی اختیار کرنا 
 
+I can’t believe that scumbag lied to everyone.
+
+مجھے یقین نہیں آتا کہ اس ذلیل شخص نے سب سے جھوٹ بولا۔
 
 
+The company fired the scumbags involved in corruption.
+
+کمپنی نے کرپشن میں ملوث گھٹیا لوگوں کو نکال دیا۔
+
+scumbags
+
+گھٹیا آدمی، ذلیل شخص، ناپسندیدہ انسان . بدبودار لوگ 
 
 
 
