@@ -2628,6 +2628,22 @@ I am freaking out
 freak out
 
 پریشان ہونا, گھبرا جانا
+He was notably absent from the meeting.
+
+وہ میٹنگ میں قابلِ ذکر طور پر غیر حاضر تھا۔
+
+notably 
+
+, خاص طور پر, یادگار کے طور پر , خصوصاً   
+
+His decision was fraught with risks.
+
+اس کا فیصلہ خطرات سے بھرا ہوا تھا۔
+
+fraught
+
+مشکلات سے پر , پریشانی سے بھرپور , بھرا ہوا 
+
 
 
 
