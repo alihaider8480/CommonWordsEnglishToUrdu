@@ -2632,7 +2632,7 @@ He was notably absent from the meeting.
 
 وہ میٹنگ میں قابلِ ذکر طور پر غیر حاضر تھا۔
 
-notably 
+notably , specially
 
 , خاص طور پر, یادگار کے طور پر , خصوصاً   
 
