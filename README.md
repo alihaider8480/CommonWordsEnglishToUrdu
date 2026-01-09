@@ -109,9 +109,6 @@ Faithful
 
 وفادار۔
 
-Adultery
-
-زنا
 
 Banter
 
