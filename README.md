@@ -2725,6 +2725,58 @@ Ponder
 
 غور و فکر کرنا , سوچ بچار کرن , گہرائی سے سوچنا
 
+The balloon will pop: 
+
+غبارہ پھٹ جائے گا۔
+
+He popped into the room:
+
+وہ اچانک کمرے میں آگیا۔
+
+pop
+
+دھماکے سے پھٹنا ، اچانک نمودار ہونا
+
+This mango is very mellow
+
+. یہ آم بہت پکا ہوا اور میٹھا ہے۔
+
+He has a mellow voice.
+
+ (اس کی آواز بہت دھیمی اور سریلی ہے)۔
+
+He has mellowed with age. 
+
+عمر کے ساتھ اس کا مزاج نرم/سنجیدہ ہو گیا ہے
+
+Mellower
+
+	زیادہ نرم یا زیادہ پکا ہوا
+
+Mellow / Mellowing / Mellowest / Mellowness
+
+نرم، پکا ہوا، دھیما , پکا کر میٹھا کرنا
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
