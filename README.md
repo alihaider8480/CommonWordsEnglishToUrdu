@@ -398,6 +398,30 @@ Scars
 
 نشانات
 
+again and again / over and over 
+
+بار بار
+
+The apple started to fall freely from the tree.
+
+سیب درخت سے آزادانہ گرنے لگا
+
+free fall
+
+آزادانہ گرنا , aram sa girna nicha 
+
+Don't let your answers ramble on too long.
+
+ اپنے جوابات کو غیر ضروری طور پر طویل اور بے ربط نہ ہونے دیں۔
+
+Let's go for a ramble by the river.
+
+ آؤ دریا کے کنارے چہل قدمی (بغیر کسی خاص رخ کے گھومنے) کے لیے چلتے ہیں
+
+ramble
+
+گھومنا پھرنا , سیر و تفریح (سست رفتاری سے چلنا) ,  بے ربط گفتگو (لمبی چوڑی باتیں کرنا) 
+
 gamble
 
 جوا کهیلنا
