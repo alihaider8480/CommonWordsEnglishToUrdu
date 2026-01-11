@@ -1,6 +1,8 @@
 
 # EnglishToUrdu
 
+agar kisi word ka aga S ya es ajae tu english ma uska sentences ki meaning ma تا ہے add hojata hai jasa **Rave**	تعریف کرنا / ہذیان بکنا  magar s lagane ka bad Raves	تعریف کرتا ہے / بڑبڑاتا ہے
+
 https://www.facebook.com/reel/1671553480025919?mibextid=9drbnH&s=yWDuG2&fs=e
 Colombiana movie.
 this is england
