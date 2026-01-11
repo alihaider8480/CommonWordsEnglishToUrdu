@@ -2702,10 +2702,28 @@ scuffle
 
 ہاتھا پائی , دھکم دھکا 
 
+I spilled coffee on my shirt.
 
+میں نے اپنی قمیض پر کافی گرادی/چھلکادی
 
+Spill
 
+چھلکانا/چھلکنا ,  گرنا/گرانا  , بکھرنا/بکھیرنا
 
+sword
+
+تلوار
+
+He is pondering over his future plans.
+
+وہ اپنے مستقبل کے منصوبوں پر غور و فکر کر رہا ہے
+She pondered the question for a moment before answering.
+
+اس نے جواب دینے سے پہلے ایک لمحے کے لیے سوال پر غور کیا۔
+
+Ponder
+
+غور و فکر کرنا , سوچ بچار کرن , گہرائی سے سوچنا
 
 
 
