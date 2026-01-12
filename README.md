@@ -2759,7 +2759,23 @@ Mellow / Mellowing / Mellowest / Mellowness
 
 نرم، پکا ہوا، دھیما , پکا کر میٹھا کرنا
 
+The earthquake was devastating for the city.
 
+زلزلہ شہر کے لیے تباہ کن تھا۔
+
+It was a tragic accident.
+
+یہ ایک المناک حادثہ تھا۔
+
+Tragic , Devastate ,Devastating
+
+المناک، افسوسناک , تباہ کرنا، برباد کرنا , ہولناک
+Tragically
+ 
+ المناک طور پر
+Tragedy
+
+المیہ، سانحہ
 
 
 
