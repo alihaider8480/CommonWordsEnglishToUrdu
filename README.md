@@ -2789,9 +2789,13 @@ Mad
 
 پاگل، دیوانہ
 
+I must reiterate my point to avoid any confusion.	
+
+کسی بھی الجھن سے بچنے کے لیے مجھے اپنی بات دہرانی چاہیے
+
 Reiterate (Reiterated  = دہرایا ہوا)
 
-دہرانا , 
+دہرانا , بار بار کہنا 
 
 
 
