@@ -2777,9 +2777,21 @@ Tragedy
 
 المیہ، سانحہ
 
+His constant lies madden his parents. 
 
+ اس کا مسلسل جھوٹ بولنا اس کے والدین کو شدید غصہ دلاتا ہے
 
+madness ( Madden = پاگل کرنا، شدید غصہ دلانا / Madly = دیوانہ وار)
 
+پاگل پن
+
+Mad
+
+پاگل، دیوانہ
+
+Reiterate (Reiterated  = دہرایا ہوا)
+
+دہرانا , 
 
 
 
