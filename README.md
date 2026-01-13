@@ -1190,10 +1190,17 @@ resistance
 
 مزاحمت
 
+We don't anticipate any trouble
+
+ہمیں کسی خطرے کا اندازہ نہیں ہے
+
 anticipate date
 
 متوقع تاریخ
+anticipate
 
+توقع کرنا , امید رکھنا , پہلے سے اندازہ کرنا
+ 
 expiate
 
 کفارہ دینا
