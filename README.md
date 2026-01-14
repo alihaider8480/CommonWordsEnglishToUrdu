@@ -2804,7 +2804,15 @@ Reiterate (Reiterated  = دہرایا ہوا)
 
 دہرانا , بار بار کہنا 
 
+Base Form (V1)Bounce out = باہر نکلنا / اچھال کر آؤٹ کرنا)
+Past Simple (V2): Bounced out (باہر نکلا / آؤٹ کیا)
+Past Participle (V3): Bounced out (باہر نکل چکا / آؤٹ کر چکا)
+Present Participle (ing): Bouncing out (باہر نکل رہا ہے)
 
+
+bounce out (Bounced out (باہر نکلا / آؤٹ کیا) (Bouncing out (باہر نکل رہا ہے) )
+
+ کسی جگہ سے تیزی سے باہر نکلنا , باہر نکلنا 
 
 
 
