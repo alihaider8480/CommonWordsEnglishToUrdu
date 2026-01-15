@@ -2818,7 +2818,17 @@ venus
 
 وینس: سورج سے دوسرا سیارہ planet
 
+The spirit is willing, but the flesh is weak.
 
+ترجمہ: روح تو تیار ہے مگر جسم کمزور ہے
+
+The knife cut deep into the flesh.
+
+ترجمہ: چاقو گوشت میں گہرائی تک اتر گیا
+
+flesh
+
+گوشت (انسان یا جانور کا) , گودا 
 
 
 
