@@ -2611,7 +2611,7 @@ Would you like to partake of some refreshments?
 
  کیا آپ کچھ تواضع/ناشتہ لینا پسند کریں گے؟
 
-partake
+partake , participate 
 
 حصہ لینا یا شرکت کرنا
 
