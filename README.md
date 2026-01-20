@@ -2842,7 +2842,9 @@ Let's do a deep dive into this project.
 
 آئیے اس پروجیکٹ کا تفصیلی جائزہ لیتے ہیں۔ 
 
+felt = feel
 
+ محسوس کیا
 
 
 
