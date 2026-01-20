@@ -2846,10 +2846,17 @@ felt = feel
 
  محسوس کیا
 
+would i run off the world someday ?
 
+کیا میں کسی دن دنیا سے بھاگ جاؤں گا؟
 
+He ran off before I could say anything.
 
+ وہ اس سے پہلے کہ میں کچھ کہہ پاتا، بھاگ گیا۔
 
+run off 
+
+: اچانک چلے جانا / بھاگ جانا
 
 
 
