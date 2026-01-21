@@ -2886,11 +2886,17 @@ flake ( flaky , flakiness)
 
  چھلکا,  پپڑی , تہہ , یا کسی چیز کی کئی پپڑی کا شامل ہونا , ٹکڑے ہو
 
+This new model is more robust than the last one.
+
+یہ نیا ماڈل پچھلے ماڈل کے مقابلے میں زیادہ پائیدار (مضبوط) ہے۔
+
 Robust ( Robustly = مضبوطی سے , Robustness = مضبوطی)
 
-مضبوط , 
+مضبوط , بہترین (مضبوط) , زیادہ پائیدار 
 
+hiccup ( hiccups = ہچکی ,hiccupping = ہچکیاں آ رہی ہیں , hiccuped = ہچکی آئی  )
 
+ہچکی
 
 
 
