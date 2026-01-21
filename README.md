@@ -2882,7 +2882,7 @@ The old paint is flaking off the wall.
 
 دیوار سے پرانا پینٹ پرتوں کی شکل میں اتر رہا ہے
 
-flake
+flake ( flaky , flakiness)
 
  چھلکا,  پپڑی , تہہ , یا کسی چیز کی کئی پپڑی کا شامل ہونا , ٹکڑے ہو
 
