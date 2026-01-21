@@ -2870,7 +2870,21 @@ hypercare
 
 انتہائی توجہ , فوری مدد , شدید توجہ کا دورانیہ
 
+glitter
+
+چمک
+
+Be careful; the old paper is so brittle it might flake if you touch it.
+
+احتیاط کریں؛ پرانا کاغذ اتنا خستہ ہے کہ چھونے پر اس کے ٹکڑے ہو سکتے ہیں
+
+The old paint is flaking off the wall.
+
+دیوار سے پرانا پینٹ پرتوں کی شکل میں اتر رہا ہے
+
 flake
+
+ چھلکا,  پپڑی , تہہ , یا کسی چیز کی کئی پپڑی کا شامل ہونا , ٹکڑے ہو
 
 
 
