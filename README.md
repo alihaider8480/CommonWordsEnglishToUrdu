@@ -2858,9 +2858,19 @@ run off
 
 : اچانک چلے جانا / بھاگ جانا
 
+rope
 
+رسی , ڈوری , کمند
 
+We will be in a hypercare period for two weeks after the new system launch.
 
+نئے سسٹم کے لانچ ہونے کے بعد ہم دو ہفتوں کے لیے ہائپر کیئر پیریڈ میں ہوں گے۔
+
+hypercare
+
+انتہائی توجہ , فوری مدد , شدید توجہ کا دورانیہ
+
+flake
 
 
 
