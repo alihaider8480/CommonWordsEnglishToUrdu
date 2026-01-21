@@ -2814,6 +2814,12 @@ bounce out (Bounced out (باہر نکلا / آؤٹ کیا) (Bouncing out (با�
 
  کسی جگہ سے تیزی سے باہر نکلنا , باہر نکلنا 
 
+He ran off before I could say anything.
+
+ وہ اس سے پہلے کہ میں کچھ کہہ پاتا، بھاگ گیا۔
+
+run off 
+
 venus
 
 وینس: سورج سے دوسرا سیارہ planet
@@ -2834,13 +2840,14 @@ curry
 
 سالن
 
+Let's do a deep dive into this project.
+
+آئیے اس پروجیکٹ کا تفصیلی جائزہ لیتے ہیں۔ 
+
 deep dive
 
 گہری ڈوبکی , گہرا مطالعہ
 
-Let's do a deep dive into this project.
-
-آئیے اس پروجیکٹ کا تفصیلی جائزہ لیتے ہیں۔ 
 
 felt = feel
 
@@ -2849,12 +2856,6 @@ felt = feel
 would i run off the world someday ?
 
 کیا میں کسی دن دنیا سے بھاگ جاؤں گا؟
-
-He ran off before I could say anything.
-
- وہ اس سے پہلے کہ میں کچھ کہہ پاتا، بھاگ گیا۔
-
-run off 
 
 : اچانک چلے جانا / بھاگ جانا
 
