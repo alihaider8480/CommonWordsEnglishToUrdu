@@ -2914,7 +2914,17 @@ hop (Hop out → چھلانگ لگا کر باہر آنا / فوراً باہر 
 
 چھلانگ لگانا / پھدکنا / اچھل کر چلنا , چھوٹی چھلانگ
 
+Weed is illegal in many countries.
 
+بہت سے ممالک میں گانجا غیر قانونی ہے۔
+
+Weeds grow very fast in the rainy season.
+
+بارش کے موسم میں جڑی بوٹیاں بہت تیزی سے اگتی ہیں۔
+
+Weed ( isko گانجا = nasha bhe khata hai)
+
+جڑی بوٹی / خودرو گھاس 
 
 
 
