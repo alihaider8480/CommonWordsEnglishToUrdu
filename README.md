@@ -2926,10 +2926,33 @@ Weed ( isko گانجا = nasha bhe khata hai)
 
 جڑی بوٹی / خودرو گھاس 
 
+The plaintiff's witnesses will testify in the next hearing.
 
+(مُدعی کے گواہ اگلی سماعت میں بیان دیں گے
 
+The defendant presented new evidence to the judge.
 
+ملزم = قُصُوروار نے جج کے سامنے نئے شواہد پیش کیے
 
+defendant
+
+وہ شخص جس کے خلاف مقدمہ دائر کیا گیا ہو ,ملزم یا فریق ثانی , قُصُوروار , جواب دہ
+ 
+Plaintiff
+
+وہ شخص ہوتا ہے جو مقدمہ دائر کرتا ہے , مدعی
+
+The witness was called to testify in court.
+
+(گواہ کو عدالت میں گواہی دینے کے لیے بلایا گیا
+
+testify (testified , testifying)
+
+گواہی دینا , شہادت دینا , تصدیق کرنا
+
+witness
+
+گواہ
 
 
 
