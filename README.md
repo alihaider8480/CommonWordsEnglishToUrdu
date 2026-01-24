@@ -2899,7 +2899,20 @@ hiccup ( hiccups = ہچکی ,hiccupping = ہچکیاں آ رہی ہیں , hiccup
 
 ہچکی
 
+I will hop out of the car here.
 
+میں یہاں گاڑی سے چھلانگ لگا کر باہر آ جاؤں گا
+
+The little boy hops on one foot.
+
+چھوٹا لڑکا ایک پاؤں پر پھدکتا ہے
+He has hopped many times during practice.
+
+اس نے مشق کے دوران کئی بار چھلانگیں لگائی ہیں
+
+hop (Hop out → چھلانگ لگا کر باہر آنا / فوراً باہر نکل آنا)
+
+چھلانگ لگانا / پھدکنا / اچھل کر چلنا , چھوٹی چھلانگ
 
 
 
