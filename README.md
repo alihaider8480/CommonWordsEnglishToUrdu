@@ -2975,8 +2975,25 @@ sued = lawsuit
 
 کیس کرنا , مقدمہ کرنا
 
+roll up (roll down = nicha ki taraf)
 
+اوپر کی طرف موڑنا
 
+spin around
+
+گھومنا" یا "چکر لگانا
+
+turn around
+
+گھومنا
+
+flip over
+
+پلٹائیں
+
+put down
+
+نیچے رکھو
 
 
 
