@@ -2972,8 +2972,19 @@ bail
 
 sued = lawsuit
 
-
 کیس کرنا , مقدمہ کرنا
+
+flatten (flattened flatten out)
+
+چپٹا کرنا  , برابر کر نا ، صیدھا کر نا
+
+push over
+
+گرانا/دھکا دے کر گرا دینا
+
+stand up
+
+کھڑا ہونا, کھڑا کر نا
 
 roll up (roll down = nicha ki taraf)
 
