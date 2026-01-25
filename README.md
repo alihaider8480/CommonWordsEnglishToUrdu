@@ -1729,9 +1729,33 @@ as far as
 
 جہاں تک
 
-as soon as be comes then we will go
+as soon as he comes then we will go
 
 جیسے ہی وہ آئے گا ہم جائیں گے۔
+
+she is staring at me as if she will eat me
+
+گھور تو ایسے رھی یے جیسے کے کھا جائے گی
+
+what if you fail
+
+اگر تو فیل ھو گیا تو؟ 
+
+even if you die i will not talk to you
+
+تو مر بھی جاے  گانہ پھر بھی میی  تم سے بات نھیی کرونگی
+
+what if
+
+اگر ایسا ھوگیا تو
+
+even if
+
+چاھے کچھے بھی ھوجاے
+
+as if
+
+جیسے  کہ
 
 as soon as
 
