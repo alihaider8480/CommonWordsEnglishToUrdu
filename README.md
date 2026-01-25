@@ -1972,7 +1972,7 @@ if that's the case so i will go with you
 
 اگر ایسا ہے تو میں آپ کے ساتھ جاؤں گا۔
 
-if that's the case
+if that's the case ( what if = اگر ایسا ھوگیا تو)
 
 اگر ایسا ہے , اگر یہ معاملہ ہے 
 
