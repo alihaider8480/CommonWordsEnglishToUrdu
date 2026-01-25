@@ -2934,6 +2934,14 @@ The defendant presented new evidence to the judge.
 
 ملزم = قُصُوروار نے جج کے سامنے نئے شواہد پیش کیے
 
+The verdict was in favor of the defendant.
+
+فیصلہ مُدعا علیہ کے حق میں تھا
+
+The plaintiff filed a lawsuit against the defendant for damages.
+
+مدعی نے ہرجانے کے لیے مُدعا علیہ کے خلاف مقدمہ دائر کیا
+
 defendant
 
 وہ شخص جس کے خلاف مقدمہ دائر کیا گیا ہو ,ملزم یا فریق ثانی , قُصُوروار , جواب دہ
@@ -2941,6 +2949,10 @@ defendant
 Plaintiff
 
 وہ شخص ہوتا ہے جو مقدمہ دائر کرتا ہے , مدعی
+
+ verdict
+
+ فیصلہ , رائے 
 
 The witness was called to testify in court.
 
@@ -2954,13 +2966,14 @@ witness
 
 گواہ
 
+bail
+
+ضمانت
+
+sued = lawsuit
 
 
-
-
-
-
-
+کیس کرنا , مقدمہ کیا
 
 
 
