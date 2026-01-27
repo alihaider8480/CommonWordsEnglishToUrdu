@@ -1692,10 +1692,6 @@ nothing goes to + V 1rst
 
 کچھ نہیں جاتا
 
-nonetheless
-
-بہر حال , اس کے باوجود
-
 let him come inside
 
 اسے اندر آنے دو
@@ -3030,12 +3026,25 @@ put down
 
 نیچے رکھو
 
+hereafter
 
+ اٍس کے بعد
 
+thereafter
 
+اُس کے بعد
 
+whereupon
 
+جس کے بعد
 
+notwithstanding
+
+ باوجود اس کے ,اس کے باوجود
+
+nonetheless , nevertheless
+
+بہر حال , اس کے باوجود , لیکن پھر بھی
 
 
 
