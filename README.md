@@ -3046,8 +3046,9 @@ nonetheless , nevertheless
 
 بہر حال , اس کے باوجود , لیکن پھر بھی
 
+what is your twenty(20) = where are you now
 
-
+i am walking = en walking 
 
 
 
