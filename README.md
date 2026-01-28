@@ -3050,6 +3050,9 @@ what is your twenty(20) = where are you now
 
 i am walking = en walking 
 
+edible (inedible opposite)
+
+کھانے کے قابل / کھانے کے لائق
 
 
 
