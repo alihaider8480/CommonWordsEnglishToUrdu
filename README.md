@@ -3066,11 +3066,17 @@ do ever
 
 کبھی تو
 
+sympathy
 
+ہمدردی
 
+Empathy
 
+ہم احساسی(متلب دوسرو کا احساس کرن
 
+compassion
 
+I feel your pain and I will help you
 
 
 
