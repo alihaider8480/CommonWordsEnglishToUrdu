@@ -3098,8 +3098,9 @@ snuff (snuff out = end or kill something)
 
 نسوار , تمباکو
 
+bitch
 
-
+کتا ، کتی
 
 
 
