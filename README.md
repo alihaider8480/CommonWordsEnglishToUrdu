@@ -3078,6 +3078,47 @@ compassion
 
 I feel your pain and I will help you
 
+Police dogs are used to sniff out drugs.
+
+پولیس کے کتے منشیات کو سونگھ کر تلاش کرنے کے لیے استعمال کیے جاتے ہیں۔ 
+
+You're sniffing a lot do you have a cold?.
+
+آپ بہت زیادہ ناک سُڑک رہے ہیں، کیا آپ کو نزلہ ہے؟
+
+sniff out
+
+  مطلب ڈونڈ کے سونگھنا ، ڈھونڈ نکالنا ، سراغ لگانا
+
+sniff (sniffed , sniffing)
+
+سونگھنا , یاناک سے ھوا آنا
+
+snuff (snuff out = end or kill something)
+
+نسوار , تمباکو
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
