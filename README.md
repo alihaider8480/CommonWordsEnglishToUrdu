@@ -3118,8 +3118,13 @@ parch (parched , parching)
 
 خُشْک , سُوکھا
 
+nasty
 
+گندا / غلیظ
 
+swallow
+
+نِگَلنا , حلق سے اتارنا
 
 
 
