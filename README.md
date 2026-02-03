@@ -3130,6 +3130,10 @@ butt
 
 چُوتڑ
 
+hooker (hookers)
+
+رنڈ 
+
 
 
 
