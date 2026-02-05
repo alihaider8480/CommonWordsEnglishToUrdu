@@ -3134,9 +3134,17 @@ hooker (hookers)
 
 رنڈ 
 
+i swear to god
 
+مییُاالللہ کی قسم کھتا ھو
 
+swear
 
+قسم 
+
+victory
+
+جیت ،  کامیابی ، فتھا
 
 
 
