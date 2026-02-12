@@ -3150,7 +3150,7 @@ bitter
 
 کڑوا
 
-freemason
+freemason ( freemasonry , masonic)
 
  خفیہ,  خفیہ تنظیم کا رکن , قدیم
 
