@@ -3032,7 +3032,7 @@ hereafter
 
 thereafter , afterthat
 
-اُس کے بعد
+اُس کے بعد ,  بعد میں
 
 whereupon
 
