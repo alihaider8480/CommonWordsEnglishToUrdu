@@ -3030,7 +3030,7 @@ hereafter
 
  اٍس کے بعد
 
-thereafter
+thereafter , afterthat
 
 اُس کے بعد
 
