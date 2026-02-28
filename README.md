@@ -3154,8 +3154,13 @@ freemason ( freemasonry , masonic)
 
  خفیہ,  خفیہ تنظیم کا رکن , قدیم
 
+The explosion was of such intensity it was heard miles away.
 
+دھماکے میں اتنی شدت تھی کہ اسے میلوں دور تک سنا گیا
 
+intense (intensity = شدت)
+
+ ,شدید , سخت , گہرا
 
 
 
