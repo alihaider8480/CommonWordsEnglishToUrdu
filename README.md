@@ -136,7 +136,7 @@ Cure
 
 علاج
 
-Deceit. , Cheat, betray
+Deceit. , Cheat, betray (betrayed )
 
 دھوکہ
 
