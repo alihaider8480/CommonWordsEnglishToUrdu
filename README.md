@@ -3175,7 +3175,13 @@ brim (brimmed = کنارے تک بھرچکا , brmming = ھورھا ے
 
  (کنارے تک بھرنا , لبالب
 
+He must repent for his mistakes.
 
+اُسے اپنی غلطیوں پر توبہ کرنی چاہیے۔
+
+repent (repented , repenting)
+
+پچھتانا / توبہ کرنا
 
 
 
