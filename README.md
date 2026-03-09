@@ -3187,8 +3187,18 @@ rubble
 
 ملبہ ,  ا ینٹ پتھر کے ٹکڑے , کنکر پتھر 
 
+A handkerchief is sticking out of his pocket
 
+اس کی جیب سے ایک رومال باہر نکل رہا ہے۔
 
+sticking out
+
+باہر نکلنا / ابھرنا 
+
+stick ( stuck 2nd form , stucking= چپک رہا ہے / چبھ رہا ہے)
+
+verb = چپکانا 
+  لکڑی , چھڑی = noun 
 
 
 
