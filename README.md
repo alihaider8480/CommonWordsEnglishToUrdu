@@ -3200,6 +3200,9 @@ stick ( stuck 2nd form , stucking= چپک رہا ہے / چبھ رہا ہے)
 verb = چپکانا 
   لکڑی , چھڑی = noun 
 
+fucktard
+
+ احمق, جھانڈو , انتہائی بے وقوف
 
 
 
