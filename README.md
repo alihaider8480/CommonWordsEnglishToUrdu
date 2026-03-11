@@ -3179,7 +3179,7 @@ He must repent for his mistakes.
 
 اُسے اپنی غلطیوں پر توبہ کرنی چاہیے۔
 
-repent (repented , repenting)
+repent (repented , repenting) , regreat
 
 پچھتانا / توبہ کرنا
 
