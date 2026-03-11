@@ -2209,7 +2209,7 @@ raise
 
 اٹھانا یا بلند کرنا, پرورش کرنا / پالنا , اضافہ کرنا: جیسے تنخواہ یا قیمتوں میں
 
-fostering, rearing, breeding
+fostering, rearing, breeding , upBringing
 
 پرورش , پال پوس 
 
