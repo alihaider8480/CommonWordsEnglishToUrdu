@@ -2926,6 +2926,7 @@ I will hop out of the car here.
 The little boy hops on one foot.
 
 چھوٹا لڑکا ایک پاؤں پر پھدکتا ہے
+
 He has hopped many times during practice.
 
 اس نے مشق کے دوران کئی بار چھلانگیں لگائی ہیں
