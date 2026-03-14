@@ -3034,7 +3034,7 @@ thereafter , afterthat
 
 اُس کے بعد ,  بعد میں
 
-whereupon
+whereupon , afterwards , followed by
 
 جس کے بعد
 
