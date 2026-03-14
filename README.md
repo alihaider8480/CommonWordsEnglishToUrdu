@@ -3205,6 +3205,12 @@ fucktard
 
  احمق, جھانڈو , انتہائی بے وقوف
 
+it takes two to tango
 
+تالی دونوں ہاتھوں سے بجتی ہے
+
+i have a bone to pick with you
+
+مجھے تم سے ایک شکایت ہے
 
 
