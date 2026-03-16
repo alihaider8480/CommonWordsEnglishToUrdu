@@ -3213,4 +3213,11 @@ i have a bone to pick with you
 
 مجھے تم سے ایک شکایت ہے
 
+The cat had snuck into the kitchen before I noticed.
+
+میرے دیکھنے سے پہلے ہی بلی باورچی خانے میں دبے پاؤں گھس چکی تھی۔
+
+sneak ( snuck , sneaked , sneaking)
+
+چپکے سے آنا/جانا , نظر بچا کر نکلنا ,  دبے پاؤں چلنا
 
