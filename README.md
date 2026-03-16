@@ -3221,3 +3221,15 @@ sneak ( snuck , sneaked , sneaking)
 
 چپکے سے آنا/جانا , نظر بچا کر نکلنا ,  دبے پاؤں چلنا
 
+The court ordered the company to cease and desist all illegal operations.
+
+عدالت نے کمپنی کو تمام غیر قانونی سرگرمیاں بند کرنے اور ان سے باز رہنے کا حکم دیا۔
+
+cease and desist (ceased and desisted , ceasing and deasising)
+
+بند کرنا اور باز آنا , کام بند کرنا اور باز رہنا
+
+
+
+
+
