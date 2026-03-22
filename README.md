@@ -3229,7 +3229,11 @@ cease and desist (ceased and desisted , ceasing and deasising)
 
 بند کرنا اور باز آنا , کام بند کرنا اور باز رہنا
 
+rather
 
+rather than
+
+would rather
 
 
 
