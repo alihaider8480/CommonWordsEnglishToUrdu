@@ -3229,11 +3229,13 @@ cease and desist (ceased and desisted , ceasing and deasising)
 
 بند کرنا اور باز آنا , کام بند کرنا اور باز رہنا
 
-dress rehearsal
+dress rehearsal (dress rehearsal 1 = پہلا مکمل ٹیسٹ رن)
+
+A full test run / final trial of a system, project, or process before the real launch
 
 rehearsa = (rehearsal = مشق)
 
-مشق کرنا , practice karna , A full test run / final trial of a system, project, or process before the real launch 
+مشق کرنا , practice karna  
 
 rather
 
