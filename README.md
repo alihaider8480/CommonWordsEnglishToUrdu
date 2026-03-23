@@ -3229,6 +3229,12 @@ cease and desist (ceased and desisted , ceasing and deasising)
 
 بند کرنا اور باز آنا , کام بند کرنا اور باز رہنا
 
+dress rehearsal
+
+rehearsa = (rehearsal = مشق)
+
+مشق کرنا , practice karna , A full test run / final trial of a system, project, or process before the real launch 
+
 rather
 
 rather than
