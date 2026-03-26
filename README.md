@@ -3243,5 +3243,26 @@ rather than
 
 would rather
 
+im used to listing to tants
 
+می تانے سنے کا عادی ھوگیا ھو
 
+used to + ing Form ( or ya present ma ata hai)
+
+عادی ھونا ،  عادی ھوجانا کسی چیز کا
+
+i know you used to smoke
+
+مے جانتا تھا تم پہلے سگریڑ پیتے تھے
+
+used to (verb ki form ka sath)
+
+مطلب پاسٹ  کی عادتے 
+
+i have used you
+
+مینے تمھے استمال کیا ےُ
+
+used
+
+استمال کرنا  
