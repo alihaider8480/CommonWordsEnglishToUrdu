@@ -3265,4 +3265,21 @@ i have used you
 
 used
 
-استمال کرنا  
+استمال کرنا 
+
+His provocative remarks made everyone angry.
+
+اس کے اشتعال انگیز بیانات نے سب کو غصہ دلا دیا
+
+provocative
+
+بھڑکانے والا, اکسانے والا, اشتعال انگیز 
+
+
+
+
+
+
+
+
+ 
