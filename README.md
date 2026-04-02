@@ -3275,9 +3275,17 @@ provocative
 
 بھڑکانے والا, اکسانے والا, اشتعال انگیز 
 
+The library has an archive of old newspapers.
 
+لائبریری میں پرانے اخبارات کا محفوظ ریکارڈ موجود ہے۔
 
+These photos are part of a historical archive.
 
+یہ تصاویر ایک تاریخی دستاویزات کے ذخیرے کا حصہ ہیں
+
+archive (archived , archiving , archives )
+
+محفوظ ریکارڈ / دستاویزات کا ذخیرہ / محفوظ کرنا
 
 
 
