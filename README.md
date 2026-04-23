@@ -3291,6 +3291,17 @@ bald
 
 گنجا , گنجی
 
+The dog obeyed the command.
+
+کتے نے حکم مانا۔
+
+Obey your parents.
+
+اپنے والدین کی فرمانبرداری کریں
+
+obey
+
+حکم ماننا , اطاعت کرنا
 
 
 
