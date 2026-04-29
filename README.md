@@ -1515,11 +1515,7 @@ i'm asking each question one a time
 
 run out, finished
 
-ختم ہوگیا 
-
-take off
-
-اتار دو 
+ختم ہوگیا  
 
 that's what
 
@@ -3304,7 +3300,12 @@ obey
 حکم ماننا , اطاعت کرنا
 
 
+He is gone.
+وہ جا چکا ہے۔ (He’s not here now)
 
+He took off. (take off 1rst foam h or اتار دو
+
+وہ اچانک نکل گیا۔ (He left quickly)
 
 
 
