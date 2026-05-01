@@ -3299,14 +3299,37 @@ obey
 
 حکم ماننا , اطاعت کرنا
 
-
 He is gone.
+
 وہ جا چکا ہے۔ (He’s not here now)
 
 He took off. (take off 1rst foam h or اتار دو
 
 وہ اچانک نکل گیا۔ (He left quickly)
 
+She is a kind woman.
+
+وہ ایک مہربان عورت ہے
+
+He kindly helped me.
+    
+اس نے مہربانی سے میری مدد کی
+
+kindness doesn't wait to be seem
+
+مہربانی نظر آنے کا انتظار نہیں کرتی
+
+kind 
+
+مہربان
+
+Kindly (adverb) = مہربانی سے
+
+Kindness (noun) = مہربانی
+
+Kindness 
+
+مہربانی / رحم دلی / نرمی
 
 
 
