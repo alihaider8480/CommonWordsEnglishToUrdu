@@ -3335,8 +3335,21 @@ throughOut
 
   شروع سے آخر تک , پورے وقت کے دوران ,  پورے عرصے میں
 
+My phone is out of order.
+    
+میرا فون خراب ہے۔
 
+His comments were out of order in the meeting.
+    
+میٹنگ میں اُس کے تبصرے نامناسب تھے۔
 
+These pages are out of order.
+
+یہ صفحات ترتیب سے باہر ہیں
+
+out of order
+
+   خراب , ترتیب سے باہر , غلط / نامناسب   
 
 
 
