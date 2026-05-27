@@ -3233,6 +3233,8 @@ rehearsa = (rehearsal = مشق)
 
 مشق کرنا , practice karna  
 
+prefer to 
+
 rather
 
 rather than
