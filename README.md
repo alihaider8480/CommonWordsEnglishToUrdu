@@ -3239,7 +3239,7 @@ rather
 
 rather than
 
-would rather
+would rather(https://www.facebook.com/share/r/1E52vRxp29/?mibextid=wwXIfr
 
 im used to listing to tants
 
