@@ -3353,6 +3353,10 @@ out of order
 
    خراب , ترتیب سے باہر , غلط / نامناسب   
 
+get the room cleaned
 
+روم کو کلین کروا دو
+
+کوی بھی کام کسی سے کروائنگا تو اسکے ساتھ get + object + 3rd  laga gi
 
  
