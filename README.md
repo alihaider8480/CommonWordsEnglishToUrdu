@@ -3366,3 +3366,13 @@ Tuck your knee in and hold for 10 seconds.
 tuck
 
 اندر موڑنا , اندر کرنا، موڑ کر رکھنا، اچھی طرح دبانا
+
+abandon (abandoned) 
+
+چھوڑ دینا ,  ترک کرنا، 
+
+He abandoned his old car.
+    
+اس نے اپنی پرانی گاڑی چھوڑ دی
+
+
