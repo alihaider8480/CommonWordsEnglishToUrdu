@@ -3375,4 +3375,15 @@ He abandoned his old car.
     
 اس نے اپنی پرانی گاڑی چھوڑ دی
 
+don't take it out on me
+
+اپنا غصہ مجھ پر مت نکالو
+
+
+
+
+
+
+
+
 
