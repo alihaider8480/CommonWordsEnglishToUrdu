@@ -3379,7 +3379,17 @@ don't take it out on me
 
 اپنا غصہ مجھ پر مت نکالو
 
+ This is a weird sound.
+    
+یہ ایک عجیب آواز ہے۔
 
+He gave me a weird look.
+
+اس نے مجھے عجیب نظروں سے دیکھا
+
+weird ( Weirdness = عجیب پن , weirdly = عجیب انداز مے )
+
+عجیب، انوکھا
 
 
 
