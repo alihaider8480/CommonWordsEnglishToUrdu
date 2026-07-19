@@ -1131,9 +1131,13 @@ trauma
 
 صدمہ
 
-hesitation
+inhibit
+    
+روکنا، باز رکھنا، دبا دینا
 
-ہچکچاہٹ
+hesitation , inhibitions
+         
+جھجک , ہچکچاہٹ
 
 
 irritate
