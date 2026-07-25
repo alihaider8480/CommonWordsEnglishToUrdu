@@ -1040,11 +1040,7 @@ seam ? seamless
 specially
 
 خاص طور پر
-
-peculiarly
-
-انوکھے انداز سے, عجیب انداز سے
-
+.
 accommodation
 
 رہائش
@@ -3391,7 +3387,7 @@ He gave me a weird look.
 
 اس نے مجھے عجیب نظروں سے دیکھا
 
-weird ( Weirdness = عجیب پن , weirdly = عجیب انداز مے )
+weird , peculiar ( Weirdness,peculiarty = عجیب پن , weirdly,peculiarly = عجیب انداز مے )
 
 عجیب، انوکھا
 
