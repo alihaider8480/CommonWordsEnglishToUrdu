@@ -3367,13 +3367,13 @@ tuck
 
 اندر موڑنا , اندر کرنا، موڑ کر رکھنا، اچھی طرح دبانا
 
-abandon (abandoned) 
-
-چھوڑ دینا ,  ترک کرنا، 
-
 He abandoned his old car.
     
 اس نے اپنی پرانی گاڑی چھوڑ دی
+
+abandon (abandoned) 
+
+چھوڑ دینا ,  ترک کرنا، 
 
 don't take it out on me
 
