@@ -3431,7 +3431,7 @@ He made a confession to the police.
     
 اس نے پولیس کے سامنے اعتراف کیا
 
-confession (Confess (Verb) = اعتراف کرنا، اقرار کرن )
+confession = acceptence (Confess,accept (Verb) = اعتراف کرنا، اقرار کرن )
      
 اقرار , اعتراف
 
