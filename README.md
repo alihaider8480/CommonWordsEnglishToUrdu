@@ -3423,7 +3423,17 @@ suffer
 
 تکلیف اٹھانا, دُکھ سہنا,  برداشت کرنا, مصیبت جھیلن  
 
+Confessor (Noun)
 
+اعتراف کرنے وال
+
+He made a confession to the police.
+    
+اس نے پولیس کے سامنے اعتراف کیا
+
+confession (Confess (Verb) = اعتراف کرنا، اقرار کرن )
+     
+اقرار , اعتراف
 
 
 
