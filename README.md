@@ -3403,4 +3403,34 @@ It was a blatant lie.
 
 یہ ایک کھلم کھلا جھوٹ تھا
 
+I suffer from allergies.
+    
+میں الرجی کا شکار ہوں۔
+
+She suffered a broken leg in the accident.
+    
+حادثے میں اس کی ٹانگ ٹوٹ گئی۔
+
+His suffering finally came to an end.
+    
+آخرکار اس کی تکلیف ختم ہو گئی
+
+Sufferer
+
+متاثرہ شخص، تکلیف اٹھانے والا
+
+suffer
+
+تکلیف اٹھانا, دُکھ سہنا,  برداشت کرنا, مصیبت جھیلن  
+
+
+
+
+
+
+
+
+
+
+
 
