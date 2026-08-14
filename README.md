@@ -3435,6 +3435,14 @@ confession = acceptence (Confess,accept (Verb) = اعتراف کرنا، اقر�
      
 اقرار , اعتراف
 
+His idea began to crystallize.
+
+اس کا خیال آہستہ آہستہ واضح ہونے لگا
+
+crystalize
+
+واضح شکل اختیار کرنا / ٹھوس شکل اختیار کرنا / کرسٹل بننا
+
 
 
 
