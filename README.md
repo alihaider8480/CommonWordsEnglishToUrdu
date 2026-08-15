@@ -3443,11 +3443,9 @@ crystalize
 
 واضح شکل اختیار کرنا / ٹھوس شکل اختیار کرنا / کرسٹل بننا
 
-مجرم 
-
 criminal , convict, offender, culprit
 
-
+مجرم 
 
 
 
