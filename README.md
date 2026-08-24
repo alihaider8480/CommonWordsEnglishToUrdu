@@ -518,10 +518,6 @@ Over it , Over there
 
 وہاں پر , اس پر
 
-bend
-
-جھکنا
-
 Deep in depth
 
 گہرائی میں گہرائی میں
@@ -3447,6 +3443,9 @@ criminal , convict, offender, culprit
 
 مجرم 
 
+bend , tilt 
+
+  جھکانا / جھکنا , جھکنا
 
 
 
