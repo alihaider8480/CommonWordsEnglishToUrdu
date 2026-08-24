@@ -2051,7 +2051,7 @@ dart
 
 تیر ,نیز۵
 
-gently
+gently  = softly or without force
 
 دھیرے سے, خاموشی سے ، آہستہ سے 
 
