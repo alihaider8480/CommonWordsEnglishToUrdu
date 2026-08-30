@@ -3355,14 +3355,6 @@ get the room cleaned
 
 کوی بھی کام کسی سے کروائنگا تو اسکے ساتھ get + object + 3rd  laga gi
 
-Tuck your knee in and hold for 10 seconds.
-
-اپنا گھٹنا اندر کی طرف سمیٹیں اور 10 سیکنڈ تک اسی حالت میں رکھیں۔
-
-tuck
-
-اندر موڑنا , اندر کرنا، موڑ کر رکھنا، اچھی طرح دبانا
-
 He abandoned his old car.
     
 اس نے اپنی پرانی گاڑی چھوڑ دی
@@ -3443,7 +3435,16 @@ criminal , convict, offender, culprit
 
 مجرم 
 
-bend , tilt 
+Tuck your knee in and hold for 10 seconds.
+
+اپنا گھٹنا اندر کی طرف سمیٹیں اور 10 سیکنڈ تک اسی حالت میں رکھیں۔
+
+tuck
+
+اندر موڑنا , اندر کرنا، موڑ کر رکھنا، اچھی طرح دبانا
+
+
+bend , tilt , curve
 
   جھکانا / جھکنا , جھکنا
 
