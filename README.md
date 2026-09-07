@@ -3448,7 +3448,12 @@ bend , tilt , curve
 
   جھکانا / جھکنا , جھکنا
 
+volcano
 
+ آتش فشاں ،  وہ پاھر جگاجاھن اتش ھو
 
+magma (agar ya bahar ajae tu lava)
+
+یعنی زمین کے اندر موجود پگھلا ہوا پتھر
 
 
