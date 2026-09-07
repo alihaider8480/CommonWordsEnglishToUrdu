@@ -3456,6 +3456,14 @@ magma (agar ya bahar ajae tu lava)
 
 یعنی زمین کے اندر موجود پگھلا ہوا پتھر
 
+The eruption sent ash into the sky.
+
+آتش فشاں پھٹنے سے راکھ آسمان میں پھیل گئی
+
+The volcano has erupted.
+
+آتش فشاں پھٹ چکا ہے
+
 Eruption
 
 آتش فشاں کا پھٹنا / اچانک پھوٹ پڑنا
