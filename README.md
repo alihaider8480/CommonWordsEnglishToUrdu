@@ -1152,10 +1152,6 @@ it's up to you
 
 یہ آپ پر منحصر ہے
 
-demonstrative 
-
-نمائشی, dikhana show karna,display feeling openly
-
 possession
 
 ملکیت,matlab someting thats belongs to you, matlab apni khud ki cheaz 
@@ -3523,4 +3519,43 @@ Juggler noun
 Juggle
 
  کئی چیزیں ایک ساتھ سنبھالنا
+
+Easy difference
+
+Show = صرف دکھانا
+Explain = الفاظ میں سمجھانا
+Demonstrate = کر کے یا عملی مثال دے کر دکھانا
+
+
+Let me demonstrate how this system works.
+
+مجھے عملی طور پر دکھانے دیں کہ یہ سسٹم کیسے کام کرتا ہے
+
+I will demonstrate this feature in the meeting.
+
+میں میٹنگ میں اس فیچر کو عملی طور پر دکھاؤں گا
+
+Demonstrate — base form
+
+Demonstrates — he/she/it
+
+Demonstrated — past / past participle
+
+Demonstrating — -ing form
+
+Demonstration 
+
+مظاہرہ / عملی نمونہ
+
+Demonstrator (noun)
+
+ مظاہرہ یا عملی وضاحت کرنے والا شخص
+
+demonstrate
+
+  کرکےدیکھنا , دکھانا، عملی طور پر سمجھانا، مظاہرہ کرنا، ثابت کرکے دکھانا
+
+
+
+
 
