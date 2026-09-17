@@ -3502,8 +3502,25 @@ ripple
 
 پانی کی چھوٹی لہریں یا ہلکی لہر۔
 
+I am juggling several tasks at work.
 
+میں کام پر ایک ہی وقت میں کئی کام سنبھال رہا ہوں
 
+I’m juggling multiple projects at the moment.
 
+میں اس وقت کئی پروجیکٹس ایک ساتھ سنبھال رہا ہوں
 
+Juggles — present (he/she/it)
+
+Juggled — past / past participle
+
+Juggling — -ing form
+
+Juggler noun
+
+کرتب دکھانے والا شخص
+
+Juggle
+
+ کئی چیزیں ایک ساتھ سنبھالنا
 
