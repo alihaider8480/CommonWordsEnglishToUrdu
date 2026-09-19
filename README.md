@@ -3555,6 +3555,24 @@ demonstrate
 
   کرکےدیکھنا , دکھانا، عملی طور پر سمجھانا، مظاہرہ کرنا، ثابت کرکے دکھانا
 
+ Yell = usually چیخنا / غصے
+
+ Shout = اونچی آواز میں بولنا یا پکارنا, often so 
+
+
+The teacher never yells at the students.
+    
+استاد کبھی طلبہ پر نہیں چلّاتا
+
+Why are you yelling at me?
+    
+تم مجھ پر کیوں چلّا رہے ہو
+
+yelled , yelling
+
+yell ( Yells — چلّاتا ہے)
+
+چلّانا
 
 
 
