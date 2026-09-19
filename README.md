@@ -3387,9 +3387,20 @@ It was a blatant lie.
 
 یہ ایک کھلم کھلا جھوٹ تھا
 
+Easy difference: Suffer = experience pain/problem; Bear = tolerate/endure pain/problem.
+
+For example: I am suffering from pain
+
+مجھے درد ہو رہا ہے / میں درد سے تکلیف میں ہوں۔
+
+I can’t bear the pain
+
+میں یہ درد برداشت نہیں کر سکتا
+
 I suffer from allergies.
     
 میں الرجی کا شکار ہوں۔
+
 
 She suffered a broken leg in the accident.
     
@@ -3403,7 +3414,7 @@ Sufferer
 
 متاثرہ شخص، تکلیف اٹھانے والا
 
-suffer
+suffer ( bear = us dard ko bardashat karna)
 
 تکلیف اٹھانا, دُکھ سہنا,  برداشت کرنا, مصیبت جھیلن  
 
@@ -3446,7 +3457,7 @@ bend , tilt , curve
 
 volcano
 
- آتش فشاں ،  وہ پاھڑجاھان آتش فشاں ھو
+ آتش فشاں ،  وہ پاھر جگاجاھن اتش ھو
 
 magma (agar ya bahar ajae tu lava)
 
