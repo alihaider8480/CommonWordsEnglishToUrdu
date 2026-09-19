@@ -3446,7 +3446,7 @@ bend , tilt , curve
 
 volcano
 
- آتش فشاں ،  وہ پاھر جگاجاھن اتش ھو
+ آتش فشاں ،  وہ پاھڑجاھان آتش فشاں ھو
 
 magma (agar ya bahar ajae tu lava)
 
