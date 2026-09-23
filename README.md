@@ -3103,9 +3103,21 @@ butterCup
 
 لاڈلی , پیاری
 
+The hot sun parched the land.
+
+تیز دھوپ نے زمین کو بہت زیادہ خشک کر دیا
+
+My skin is dry.
+
+میری جلد خشک ہے
+
 parch (parched , parching)
 
-خُشْک , سُوکھا
+ = انتہائی خشک , بہت زیادہ خشک کر دینا / گرمی سے سُکھا دینا
+
+dry 
+
+خشک / سوکھا ہوا
 
 Nasty
 
