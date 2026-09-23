@@ -3107,9 +3107,46 @@ parch (parched , parching)
 
 خُشْک , سُوکھا
 
-nasty
+Nasty
 
-گندا / غلیظ
+گندا / برا / بدتمیز
+
+He is being nasty.
+
+Nastier
+
+زیادہ برا
+
+His attitude became nastier.
+
+Nastiest
+
+سب سے برا
+
+That was the nastiest comment.
+
+Nastily
+
+بُرے/بدتمیز انداز میں
+
+He spoke nastily to me.
+
+Nastiness
+
+بدتمیزی / گھٹیا پن
+
+
+Your clothes are dirty. 
+
+تمہارے کپڑے گندے ہیں۔
+
+This food tastes nasty
+
+اس کھانے کا ذائقہ بہت برا/گھناؤنا ہے
+
+nasty (dirty means ganda)
+
+گندا / غلیظ ، گھناؤنا، ناگوار، بدتمیز، بہت برا
 
 swallow
 
