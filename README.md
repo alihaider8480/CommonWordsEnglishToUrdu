@@ -3638,6 +3638,14 @@ fence
 
 / جنگلا: لکڑی یا لوہے کا بنا ہوا
 
+The treasure was buried under the ground.
+    
+خزانہ زمین کے نیچے دبا ہوا تھا
+
+They buried the dead body.
+    
+انہوں نے لاش کو دفن کیا
+
 Buried
 
 دفن کیا
@@ -3656,7 +3664,8 @@ Burial
 
 Bury 
 
-دفن کرنا
+ دفن کرنا، دبانا، چھپا دینا
+
 
 
 
