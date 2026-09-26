@@ -3670,8 +3670,17 @@ halt (ed)
 
 اسٹوم
 
+It took a while, but he finally understood the problem.
 
+ دیرسے ہی ساہی  ،لیکن آخرکار اسے مسئلہ سمجھ آ گیا
 
+It took a while but finally she told the truth
+
+کچھ وقت لگا، لیکن آخرکار اُس نے سچ بتا دیا
+
+took a while
+
+دیرسے ہی ساہی ، کچھ وقت لگا ، تھوڑا وقت لگا.
 
 
 
