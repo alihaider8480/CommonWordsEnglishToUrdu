@@ -3682,7 +3682,13 @@ took a while
 
 دیرسے ہی ساہی ، کچھ وقت لگا ، تھوڑا وقت لگا.
 
+from where did you buy
 
+کہاسےتم نے ہئےخاریدا
+
+from where 
+
+کہاسے
 
 
 
