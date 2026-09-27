@@ -3690,5 +3690,7 @@ from where
 
 کہاسے
 
+he could have had confidence
 
+اس کےپاس کونفئڑیبس ھو سکتا تہا
 
