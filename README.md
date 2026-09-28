@@ -3694,6 +3694,11 @@ he could have had confidence
 
 اس کےپاس کونفئڑیبس ھو سکتا تہا
 
+even if
+
+ چاھے کچھے بھی ھوجاے.  , چاہے / اگر ایسا بھی ہو تو , چاھے کچھے بھی ھوجاے
+
+
 even though (Use even though when something is actually true / a fact) = (Even though + fact, result)
 
  حالانکہ / باوجود اس کے کہ
