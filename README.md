@@ -3694,3 +3694,14 @@ he could have had confidence
 
 اس کےپاس کونفئڑیبس ھو سکتا تہا
 
+even though (Use even though when something is actually true / a fact) = (Even though + fact, result)
+
+ حالانکہ / باوجود اس کے کہ
+
+
+
+
+
+
+
+
