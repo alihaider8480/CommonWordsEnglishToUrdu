@@ -3694,6 +3694,20 @@ he could have had confidence
 
 اس کےپاس کونفئڑیبس ھو سکتا تہا
 
+Easy difference
+Even though = یہ حقیقت ہے، پھر بھی…
+Even if = چاہے ایسا ہو بھی جائے، پھر بھی…
+
+Compa
+
+Even if it rains, I will go outside.
+    
+چاہے بارش ہو بھی جائے، میں باہر جاؤں گا
+
+Even though it was raining, I went outside
+
+حالانکہ بارش ہو رہی تھی، پھر بھی میں باہر گیا۔
+
 even if
 
  چاھے کچھے بھی ھوجاے.  , چاہے / اگر ایسا بھی ہو تو , چاھے کچھے بھی ھوجاے
