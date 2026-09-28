@@ -3717,6 +3717,13 @@ even though (Use even though when something is actually true / a fact) = (Even t
 
  حالانکہ / باوجود اس کے کہ
 
+either or
+
+ya tu ya  ya phir ya tu ya 2 options
+
+neither nor
+
+na mujha ha cheya or na wo ya ya
 
 
 
