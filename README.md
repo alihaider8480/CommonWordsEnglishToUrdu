@@ -3725,7 +3725,7 @@ neither nor
 
 na mujha ha cheya or na wo ya ya
 
-
+fight , fought 
 
 
 
