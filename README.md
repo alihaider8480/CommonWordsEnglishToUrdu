@@ -766,18 +766,6 @@ defraud
 
 .دھوکا دے کر نقصان پہنچانا
 
-With evil intent
-
- بری نیت سے
-
-intention
-
-ارادہ
-
-Intend, ed: kia
-
-مقصد , ارادہ
-
 Withdrawn
 
 واپس لے لیا
@@ -3727,7 +3715,30 @@ na mujha ha cheya or na wo ya ya
 
 fight , fought 
 
+I intend to buy a new phone next month
 
+میں اگلے مہینے نیا فون لینے کا ارادہ رکھتا ہوں
 
+They intend to start early
 
+ وہ جلدی شروع کرنے کا ارادہ رکھتے ہیں
 
+My intent is to save money
+
+ میرا مقصد پیسے بچانا ہے۔
+
+Her intent was to help, not to harm
+
+اس کی نیت مدد کرنا تھی، نقصان نہیں
+
+With evil intent
+
+ بری نیت سے
+
+intention
+
+ نیت, مقصد , ارادہ
+
+Intend, ed: kia
+
+مقصد , ارادہ کرنا
