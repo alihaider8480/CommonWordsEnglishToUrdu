@@ -1356,10 +1356,6 @@ victim
 
  مظلوم , شکار bana ho
 
-rip , ripped/ phardia
-
-چیرڈالنا
-
 bearish = mandey
 
 مندی
@@ -3742,3 +3738,28 @@ intention
 Intend, ed: kia
 
 مقصد , ارادہ کرنا
+
+tear = ansoo ko bhi khata hai
+
+important defference
+
+Rip: زور سے پھاڑنا
+
+Tear: عام طور پر پھاڑنا
+
+rip , tear (ripped, tore , torn)
+
+ پھاڑنا , چیرڈالنا
+
+
+
+
+
+
+
+
+
+
+
+
+
