@@ -3763,7 +3763,7 @@ This error is making our lives miserable.
 
 یہ ایرر ہماری زندگی عذاب بنا رہا ہے۔
 
-miserable
+miserable ( hell = جہنم یا عذاب جیسی حالت)
 
 پریشان , بدحال , دکھی , قابلِ رحم , عذاب
 
