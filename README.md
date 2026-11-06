@@ -3751,7 +3751,21 @@ rip , tear (ripped, tore , torn)
 
  پھاڑنا , چیرڈالنا
 
+In everyday English: Miserable means extremely unhappy, uncomfortable, or suffering.
+Life = Singular (one person's life)
+Lives = Plural (more than one person's life)
 
+I feel miserable.
+
+میں بہت دکھی اور پریشان محسوس کر رہا ہوں
+
+This error is making our lives miserable.
+
+یہ ایرر ہماری زندگی عذاب بنا رہا ہے۔
+
+miserable
+
+پریشان , بدحال , دکھی , قابلِ رحم , عذاب
 
 
 
