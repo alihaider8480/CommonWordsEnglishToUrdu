@@ -3767,9 +3767,21 @@ miserable ( hell = جہنم یا عذاب جیسی حالت)
 
 پریشان , بدحال , دکھی , قابلِ رحم , عذاب
 
+jesus christ (christ like title of hazrat eiysa)
 
+حضرت عیسیٰ مسیح ہیں۔
 
+jesus
 
+حضرت عیسیٰ۔
+
+zionist jesus (matlab people jo manga hai hazeat eisa ko)
+
+یہودی لوگ جو Zionism کے حامی ہوں—یعنی اسرائیل کو یہودی قوم کے وطن کے طور پر قائم رہنے کے خیال کو سپورٹ کرتے ہوں۔ 
+
+zionist 
+
+ایک خیال کی حمایت ہے کہ اسرائیل یہودی قوم کا وطن رہے
 
 
 
