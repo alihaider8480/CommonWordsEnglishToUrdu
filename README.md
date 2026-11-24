@@ -3816,10 +3816,16 @@ We deployed the new enquiry to Production.
 ہم نے نئی Enquiry کو Production پر ڈیپلائے کر دیا۔
 
 
+roll in , rollout , rollback, rolling in
+<img width="663" height="723" alt="image" src="https://github.com/user-attachments/assets/7e23f0d7-a57b-411b-988b-4c432dd51474" />
+
 
 <img width="466" height="151" alt="image" src="https://github.com/user-attachments/assets/3c07e62f-1e44-4bdb-9b15-030c77b0ea77" />
 
 
+Who's doing the roll out of save payees tonight?
+
+آج رات Save Payees فیچر کو کون ڈیپلائے کر رہا ہے؟
 
 
 
